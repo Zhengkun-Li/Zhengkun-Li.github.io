@@ -32,15 +32,15 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 Presented Pheno-SAM project in IROS 2023!
-- *2023.07*: &nbsp;🎉🎉 won the second prize in AOCABFE student oral presentation competition!
+- *2023.10*: &nbsp;🎉🎉 Presented Pheno-SAM project in <a href='https://www.aocabfe.org/'> IROS 2023 Agrobotic Workshop </a>!
+- *2023.07*: &nbsp;🎉🎉 won the second prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student oral presentation competition!
 - *2023.07*: &nbsp;🎉🎉 Presented robotic Blueberry phenotyping project in ASABE 2023!
 - *2023.04*: &nbsp;🎉🎉 Presented PhenoBot with visual navigation in AGAI conference 2023!
 - *2023.01*: &nbsp;🎉🎉 Transfer to Agricultural and Biological Engineering department, University of Florida!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
