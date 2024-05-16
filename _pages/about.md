@@ -17,12 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a graduate student majoring in Agricultural and Biological Engineering at University of Folorida since 2023. I am working with <a href='https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en'> Dr.Changying Li and researching in agricultural robotics, automation, and deep learning-based perception techniques.
+I am a graduate student majoring in Agricultural and Biological Engineering at University of Folorida since 2023. I am working with <a href='https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en'> Dr.Changying Li </a> and researching in agricultural robotics, automation, and deep learning-based perception techniques.
+
+# 📖 Research interests
+- ## *Agricultural Robotics*
+- ## *Computer vision and deep learning*
+- ## *High-Throughput Phenotyping*
+
+# 📖 Educations
+- *2023.01 - 2024.12 (now)*, Graduate student, Agricultural and Biological Engineering, University of Folorida, Gainesville, Folorida, USA
+-  *2021.01 - 2022.12*, Graduate research Assistant, Electrical and Computer Engineering, University of Georgia, Athens, Georgia, USA.
+- *2016.09 - 2020.06*, Undergraduate student, Mechanical Engineering, Northwest Agriculture and Forestry University, Yangling, Shaanxi, China.
+
+
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 Present Pheno-SAM project in IROS 2023!
-- *2023.07*: &nbsp;🎉🎉 Present robotic Blueberry phenotyping project in ASABE 2023!
-- *2023.04*: &nbsp;🎉🎉 Present PhenoBot with visual navigation in AGAI conference 2023!
+- *2023.10*: &nbsp;🎉🎉 Presented Pheno-SAM project in IROS 2023!
+- *2023.07*: &nbsp;🎉🎉 won the second prize in AOCABFE student oral presentation competition!
+- *2023.07*: &nbsp;🎉🎉 Presented robotic Blueberry phenotyping project in ASABE 2023!
+- *2023.04*: &nbsp;🎉🎉 Presented PhenoBot with visual navigation in AGAI conference 2023!
 - *2023.01*: &nbsp;🎉🎉 Transfer to Agricultural and Biological Engineering department, University of Florida!
 
 # 📝 Publications 
@@ -44,10 +57,6 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
