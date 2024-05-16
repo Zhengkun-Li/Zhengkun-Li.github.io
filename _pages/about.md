@@ -40,31 +40,37 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 # 📝 Publications & Conference
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2023</div><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 [Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection](/images/publications/multi-view blueberry yield estimation.pdf)
 
-
 **Zhengkun Li**, Changying Li, Patricio Munoz
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
-- Designed a customized mobile platform integrated a multi-camera sensing and construct a blueberry dataset;
-- Compared the performance of YOLOv8 models with different configurations for detect small and dense object
-- valid the effectiveness of blueberry yield estimation of multi-view regression
+- Multi-view mobile platform for in-field blueberry phenotyping
+- YOLOv8 dedtector for blueberry detection
+- Blueberry yield evaluation with multi-view regression
 </div>
 </div>
 
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- Liu, Li, Zhengkun Li, Yufei Lan, Yinggang Shi, and Yongjie Cui. "Design of a tomato classifier based on machine vision." PloS one 14, no. 7 (2019): e0219803.
+- Liu, Li, **Zhengkun Li**, Yufei Lan, Yinggang Shi, and Yongjie Cui. "Design of a tomato classifier based on machine vision." PloS one 14, no. 7 (2019): e0219803.
+- Liu, Li, Xinyu Li, **Zhengkun Li**, and Yinggang Shi. "Application of electronic nose in detection of fresh vegetables freezing time considering odor identification technology." Chemical engineering transactions 68 (2018): 265-270.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07* Won the second prize in the AOCABFE student Paper Presentation competition 
+- *2023.01-present* Research Assistantship, University of Florida
+- *2022.07* Won the first prize in the AOCABFE student Paper writing competition 
+- *2021.01-2022.12* Research Assistantship, University of Georgia
+- *2018.12* Won the irst prize at Intelligent Agricultural Equipment Innovation (National level)
+- *2018.08* Won the first prize at China Robot Competition (National level) - Harvesting robot Competition
+- *2016.09-2020.6* China National Inspiration Scholarship, Northwest Agriculture and Forestry University (Top 5%)
+- *2016.09-2020.6* First-order Major scholarship, Northwest Agriculture and Forestry University (Top 10%)
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
