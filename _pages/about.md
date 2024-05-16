@@ -43,8 +43,6 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Li, Zhengkun, Changying Li, and Patricio Munoz. "Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection." 2023 ASABE Annual International Meeting. American Society of Agricultural and Biological Engineers, 2023.
-
 [Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Zhengkun Li**, Changying Li, Patricio Munoz
