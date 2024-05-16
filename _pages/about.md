@@ -40,16 +40,30 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 # 📝 Publications & Conference
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2023</div><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-[Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection](/images/publications/multi-view blueberry yield estimation.pdf)
+[Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)
 
 **Zhengkun Li**, Changying Li, Patricio Munoz
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)   [**Poster**]()      [**Presentation**](https://www.youtube.com/watch?v=QKO6Pqt4tuA) 
+
+- Multi-view mobile platform for in-field blueberry phenotyping
+- YOLOv8 dedtector for blueberry detection
+- Blueberry yield evaluation with multi-view regression
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2022</div><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Simulation of an In-field Phenotyping Robot: System Design, Vision-based Navigation and Field Mapping](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)
+
+**Zhengkun Li**, Rui Xu, Changying Li, and Longsheng Fu
+
+[**Paper**]()   [**Poster**]()      [**Presentation**](https://www.youtube.com/watch?v=2MkA4huXI_0) 
+
 - Multi-view mobile platform for in-field blueberry phenotyping
 - YOLOv8 dedtector for blueberry detection
 - Blueberry yield evaluation with multi-view regression
