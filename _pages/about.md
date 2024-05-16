@@ -19,7 +19,7 @@ redirect_from:
 
 I am a graduate student majoring in Agricultural and Biological Engineering at University of Folorida since 2023. I am working with <a href='https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en'> Dr.Changying Li </a> and researching in agricultural robotics, automation, and deep learning-based perception techniques.
 
-# 📖 Research interests
+# 💻 Research interests
 - *Agricultural Robotics*
 - *Computer vision and deep learning*
 - *High-Throughput Phenotyping*
@@ -38,21 +38,28 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 - *2023.04*: &nbsp;🎉🎉 Presented PhenoBot with visual navigation in AGAI conference 2023!
 - *2023.01*: &nbsp;🎉🎉 Transfer to Agricultural and Biological Engineering department, University of Florida!
 
-# 📝 Publications 
+# 📝 Publications & Conference
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Li, Zhengkun, Changying Li, and Patricio Munoz. "Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection." 2023 ASABE Annual International Meeting. American Society of Agricultural and Biological Engineers, 2023.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Zhengkun Li**, Changying Li, Patricio Munoz
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+- Designed a customized mobile platform integrated a multi-camera sensing and construct a blueberry dataset;
+- Compared the performance of YOLOv8 models with different configurations for detect small and dense object
+- valid the effectiveness of blueberry yield estimation of multi-view regression
 </div>
 </div>
+
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Liu, Li, Zhengkun Li, Yufei Lan, Yinggang Shi, and Yongjie Cui. "Design of a tomato classifier based on machine vision." PloS one 14, no. 7 (2019): e0219803.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
