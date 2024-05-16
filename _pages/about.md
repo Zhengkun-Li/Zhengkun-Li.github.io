@@ -55,7 +55,8 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2022</div><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2022</div><img src='/images/publications/Phenobot Simulation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Simulation of an In-field Phenotyping Robot: System Design, Vision-based Navigation and Field Mapping](https://elibrary.asabe.org/abstract.asp?aid=53452)
