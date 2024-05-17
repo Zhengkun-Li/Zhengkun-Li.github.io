@@ -61,7 +61,7 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 ## Sim2Real robotic design: from simulation to Reality
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/publications/Phenobot Simulation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='project/DT-cycle_GAN/figures/DTcycleGANfig1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dt/mars-cyclegan: Improved object detection for mars phenotyping robot](https://arxiv.org/pdf/2310.12787)
@@ -95,11 +95,11 @@ Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Course Project 2022</div><img src='project/robotic_grasping/figures/grasp1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robotic Arm for fruit grasping](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219803)
+[Robotic Arm for fruit sensing]
 
 **Zhengkun Li**, Changying Li<sup>*</sup>
 
-[**Report**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_grasping/Robotic_grasping.pdf)  [**Poster**](/project/robotic_grasping/figures/grasp1.png)      [**Video**](https://youtu.be/03xThMf7Ot8)
+[**Report**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_grasping/Robotic_grasping.pdf)  [**Video**](https://youtu.be/03xThMf7Ot8)
 
 - ROS-based Kinova manipulator control
 - YOLO detector for fruit detectin
@@ -114,7 +114,7 @@ Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 
 **Zhengkun Li**, Qunming Liu, Jianxing Li, Yufei Lan, Gangying Shi<sup>*</sup> and Li Liu<sup>*</sup>
 
-[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/tomato_classifier/Tomato%20classifier.pdf)  [**Paper2**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/tomato_classifier/Delta_robot.pdf)  [**Poster**](/project/tomato_classifier/figures/1.jpg)      [**Video**](https://youtu.be/T6siZ7ZAzVU) 
+[**Paper1**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/tomato_classifier/Tomato%20classifier.pdf)  [**Paper2**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/tomato_classifier/Delta_robot.pdf)  [**Poster**](/project/tomato_classifier/figures/1.jpg)      [**Video1**](https://youtu.be/T6siZ7ZAzVU) [**test**](project/tomato_classifier/tomato_classifier_video.mp4)
 
 - Tomato grading platform with Delta manipulator and vacuum suction cup
 - Vision-based non-contact classification algorithm: maturity, size, shape.
@@ -122,14 +122,14 @@ Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Agrobot competition 2017-2018</div><img src='/project/tomato_classifier/figures/tomato classifier.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Agrobot competition 2017-2018</div><img src='project/robotic_competition/figures/robotic_competition.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Agriclture Harvesting Robot Competition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219803)
+[Agriclture Harvesting Robot Competition]()
 
 Xing Liang, **Zhengkun Li**, Yingchao Peng, Gangying Shi<sup>*</sup> and Yan Long<sup>*</sup>
 
-[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/tomato_classifier/Tomato%20classifier.pdf) [**Poster**](/project/tomato_classifier/figures/1.jpg)      [**Video**](https://youtu.be/T6siZ7ZAzVU) 
+[**Video**](https://youtu.be/0XGGfXks-k4) 
 
 - Wheeled base control with STM32 controller: line following control 
 - Mechanical design for 5 DoF manipulator
