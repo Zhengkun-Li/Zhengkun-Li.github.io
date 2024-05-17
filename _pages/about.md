@@ -39,7 +39,7 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 - *2023.04*: &nbsp;🎉🎉 Presented PhenoBot with visual navigation in AGAI conference 2023!
 - *2023.01*: &nbsp;🎉🎉 Joined <a href='https://uflbsail.net/'>BSAIL Research Group</a> ， Agricultural and Biological Engineering department, University of Florida!
 
-# 💻 Project
+# 💻 Projects
 
 ## Robotic Crop Phenotyping 
 
@@ -92,6 +92,7 @@ Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 </div>
 
 # Previous Projects
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Course Project 2022</div><img src='project/robotic_grasping/figures/grasp1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -139,7 +140,7 @@ Xing Liang, **Zhengkun Li**, Yingchao Peng, Gangying Shi<sup>*</sup> and Yan Lon
 
 
 # 📝 Publications & Conferences
-- Liu, David, **Zhengkun Li**, Zihao Wu, and Changying Li. "Dt/mars-cyclegan: Improved object detection for mars phenotyping robot." arXiv preprint arXiv:2310.12787 (2023). [**Project**](https://github.com/UGA-BSAIL/DT-MARS-CycleGAN) 
+- Liu, David, **Zhengkun Li**, Zihao Wu, and Changying Li. "Dt/mars-cyclegan: Improved object detection for mars phenotyping robot." arXiv preprint arXiv:2310.12787 (2023).
 - **Zhengkun Li**, and Changying Li. "Robotic Vegetable Production." In Encyclopedia of Smart Agriculture Technologies, pp. 1-12. Cham: Springer International Publishing, 2023.
 - **Zhengkun Li**, Changying Li, and Patricio Munoz. "Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection." In 2023 ASABE Annual International Meeting, p. 1. American Society of Agricultural and Biological Engineers, 2023.
 - **Zhengkun Li**, Rui Xu, Changying Li, and Longsheng Fu. "Simulation of an In-field Phenotyping Robot: System Design, Vision-based Navigation and Field Mapping." In 2022 ASABE Annual International Meeting, p. 1. American Society of Agricultural and Biological Engineers, 2022.
@@ -160,11 +161,11 @@ Xing Liang, **Zhengkun Li**, Yingchao Peng, Gangying Shi<sup>*</sup> and Yan Lon
 - *2016.09-2020.6*, China National Inspiration Scholarship, Northwest Agriculture and Forestry University (Top 5%)
 - *2016.09-2020.6*, First-order Major scholarship, Northwest Agriculture and Forestry University (Top 10%)
 
-# 💬 Leadership
+# 💬 Leaderships
 - *2023.08-2024.08*, Chair of Student Activities Committee in Assiciation of OVerseas Chinese Agricultural, Biological and Food Engineering（<a href='https://www.aocabfe.org/'>AOCABFE </a>）
 - *2018.06-2019.12*, Chair of Intelligent Agricultural Equipment Student Club.
 
-# 💻 PROFESSIONAL MEMBERSHIPS
+# 💻 Professional Memberships
 - Institute of Electrical and Electronics Engineering (IEEE)  
 - American Society of Agricultural and Biological Engineers (ASABE) 
 - Association of Overseas Chinese Agricultural, Biological, and Food Engineers (<a href='https://www.aocabfe.org/'>AOCABFE </a>) 
