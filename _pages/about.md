@@ -41,20 +41,7 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 # 💻 Project
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection](https://elibrary.asabe.org/abstract.asp?aid=54189)
-
-**Zhengkun Li**, Changying Li<sup>*</sup>, Rui Xu, Patricio Munoz
-
-[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)   [**Poster**]()      [**Presentation**](https://www.youtube.com/watch?v=QKO6Pqt4tuA) 
-
-- Multi-view mobile platform for in-field blueberry phenotyping
-- YOLOv8 dedtector for blueberry detection
-- Blueberry yield evaluation with multi-view regression
-</div>
-</div>
+## Robotic Crop Phenotyping 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,7 +50,7 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 **Zhengkun Li**, Changying Li<sup>*</sup>, Rui Xu, Patricio Munoz
 
-[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)   [**Poster**]()      [**Presentation**](https://www.youtube.com/watch?v=QKO6Pqt4tuA) 
+[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)   [**Poster**]()      [**Presentation**](https://www.youtube.com/watch?v=QKO6Pqt4tuA) [**Dataset**](https://www.kaggle.com/datasets/zhengkunli3969/blueberry-segmentation-with-segment-anything-model) 
 
 - Multi-view mobile platform for in-field blueberry phenotyping
 - YOLOv8 dedtector for blueberry detection
@@ -71,6 +58,23 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 </div>
 </div>
 
+
+## Sim2Real robotic design: from simulation to Reality
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/publications/Phenobot Simulation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dt/mars-cyclegan: Improved object detection for mars phenotyping robot](https://arxiv.org/pdf/2310.12787)
+
+Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
+
+[**Project**](https://github.com/UGA-BSAIL/DT-MARS-CycleGAN)  [**Paper**](/project/DT-cycle_GAN/DT-cycleGAN.pdf) [**Dataset**](https://www.kaggle.com/datasets/zhengkunli3969/dtmars-cyclegan)
+
+- Digital twins for PhenoBot and agricultural field
+- DT-CycleGAN: generative agricultural field images
+- Zero-shot transfer to the real world dataset
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2022</div><img src='/images/publications/Phenobot Simulation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
