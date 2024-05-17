@@ -87,6 +87,21 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 </div>
 </div>
 
+# Previous Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Course Project 2022</div><img src='/project/tomato_classifier/figures/tomato classifier.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robotic Arm for fruit grasping](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219803)
+
+**Zhengkun Li**, Changying Li<sup>*</sup>
+
+[**Report**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_grasping/Robotic_grasping.pdf)  [**Poster**](/project/robotic_grasping/figures/grasp1.png)      [**Video**](https://youtu.be/03xThMf7Ot8)
+
+- ROS-based Kinova manipulator control
+- YOLO detector for fruit detectin
+- RGB-D camera for fruit localization
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Innovation trainning 2018-2020</div><img src='/project/tomato_classifier/figures/tomato classifier.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -95,11 +110,26 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 **Zhengkun Li**, Qunming Liu, Jianxing Li, Yufei Lan, Gangying Shi<sup>*</sup> and Li Liu<sup>*</sup>
 
-[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/tomato_classifier/Tomato%20classifier.pdf)   [**Poster**]()      [**Presentation**](https://www.youtube.com/watch?v=2MkA4huXI_0) 
+[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/tomato_classifier/Tomato%20classifier.pdf)  [**Paper2**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/tomato_classifier/Delta_robot.pdf)  [**Poster**](/project/tomato_classifier/figures/1.jpg)      [**Video**](https://youtu.be/T6siZ7ZAzVU) 
 
 - Tomato grading platform with Delta manipulator and vacuum suction cup
 - Vision-based non-contact classification algorithm: maturity, size, shape.
 - QT-based Software interface
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Agrobot competition 2017-2018</div><img src='/project/tomato_classifier/figures/tomato classifier.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Agriclture Harvesting Robot Competition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219803)
+
+Xing Liang, **Zhengkun Li**, Yingchao Peng, Gangying Shi<sup>*</sup> and Yan Long<sup>*</sup>
+
+[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/tomato_classifier/Tomato%20classifier.pdf) [**Poster**](/project/tomato_classifier/figures/1.jpg)      [**Video**](https://youtu.be/T6siZ7ZAzVU) 
+
+- Wheeled base control with STM32 controller: line following control 
+- Mechanical design for 5 DoF manipulator
+- OpenMV Board for fruit detection
 </div>
 </div>
 
