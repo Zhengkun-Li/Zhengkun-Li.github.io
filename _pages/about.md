@@ -50,7 +50,7 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 **Zhengkun Li**, Changying Li<sup>*</sup>, Rui Xu, Patricio Munoz
 
-[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)   [**Poster**]()      [**Presentation**](https://www.youtube.com/watch?v=QKO6Pqt4tuA) [**Dataset**](https://www.kaggle.com/datasets/zhengkunli3969/blueberry-segmentation-with-segment-anything-model) 
+[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)   [**Poster**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_phenotyping/robotic_blueberry_phenotyping_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=QKO6Pqt4tuA)
 
 - Multi-view mobile platform for in-field blueberry phenotyping
 - YOLOv8 dedtector for blueberry detection
@@ -83,7 +83,7 @@ Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 
 **Zhengkun Li**, Rui Xu, Changying Li<sup>*</sup>, and Longsheng Fu
 
-[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/Phenobot%20Simulation.pdf)   [**Poster**]()      [**Presentation**](https://www.youtube.com/watch?v=2MkA4huXI_0) 
+[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/Phenobot%20Simulation.pdf)   [**Poster**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_phenotyping/Phenobot_simulation_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=2MkA4huXI_0) 
 
 - develop a phenotyping robot to perform field phenotyping tasks
 - design a vision-based navigation algorithm and evaluate its efficacy
@@ -92,7 +92,7 @@ Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 </div>
 
 # Previous Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Course Project 2022</div><img src='/project/tomato_classifier/figures/tomato classifier.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Course Project 2022</div><img src='project/robotic_grasping/figures/grasp1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robotic Arm for fruit grasping](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219803)
