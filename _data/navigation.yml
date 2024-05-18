@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#About-me"
+    url: "/#-About-me"
 
   - title: "Research interests"
-    url: "/#-research interests"
+    url: "/#-research-interests"
 
   - title: "Educations"
     url: "/#-educations"
@@ -16,7 +16,7 @@ main:
     url: "/#-projects"
 
   - title: "Publications & Conferences"
-    url: "/#-publications & conferences"
+    url: "/#-publications-&-conferences"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -25,4 +25,4 @@ main:
     url: "/#-leaderships"
 
   - title: "Professional Memberships"
-    url: "/#-professional memberships"
+    url: "/#-professional-memberships"

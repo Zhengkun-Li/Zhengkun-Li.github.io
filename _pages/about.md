@@ -59,7 +59,7 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 </div>
 
 
-## Sim2Real robotic design: from simulation to Reality
+## Sim2Real robotic development: from simulation to reality
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='project/DT-cycle_GAN/figures/DTcycleGANfig1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
