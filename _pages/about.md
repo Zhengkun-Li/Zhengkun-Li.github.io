@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 I am a graduate student majoring in Agricultural and Biological Engineering at University of Folorida since 2023. I am working with <a href='https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en'> Dr.Changying Li </a> and researching in agricultural robotics, automation, and deep learning-based perception techniques.
 
-# 💻 Research interests
+# 💻 Research Interests
 - *Agricultural Robotics*
 - *Computer vision and deep learning*
 - *High-Throughput Phenotyping*
