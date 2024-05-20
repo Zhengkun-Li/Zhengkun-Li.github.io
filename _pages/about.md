@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a graduate student majoring in Agricultural and Biological Engineering at University of Folorida since 2023. I am working with <a href='https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en'> Dr.Changying Li </a> and researching in agricultural robotics, automation, and deep learning-based perception techniques.
+I am a graduate student majoring in Agricultural and Biological Engineering at University of Folorida since 2023. I am a graduate research assistant in <a href='https://uflbsail.net/'>BSAIL Research Group</a>, working with <a href='https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en'> Dr.Changying Li </a> and researching in agricultural robotics, automation, and deep learning-based perception techniques.
 
 # 💻 Research Interests
 - *Agricultural Robotics*
@@ -43,7 +43,7 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 ## Robotic Crop Phenotyping 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><a href="https://zhengkun-li.github.io/project/robotic_phenotyping"><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection](https://elibrary.asabe.org/abstract.asp?aid=54189)
