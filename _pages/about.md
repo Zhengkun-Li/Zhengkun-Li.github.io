@@ -43,7 +43,7 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 ## Robotic Crop Phenotyping 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><a href="https://zhengkun-li.github.io/project/robotic_phenotyping"><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection](https://elibrary.asabe.org/abstract.asp?aid=54189)
@@ -59,7 +59,7 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 </div>
 
 
-## Sim2Real robotic development: from simulation to reality
+## Sim2Real Robotic Transfer: from simulation to reality
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='project/DT-cycle_GAN/figures/DTcycleGANfig1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
