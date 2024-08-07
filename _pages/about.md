@@ -69,7 +69,7 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 **Zhengkun Li**, Changying Li<sup>*</sup>, Rui Xu, Patricio Munoz
 
-[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)   [**Poster**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_phenotyping/robotic_blueberry_phenotyping_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=QKO6Pqt4tuA)
+[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)   [**Poster**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_phenotyping/robotic_blueberry_phenotyping_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=QKO6Pqt4tuA) [**Github**](https://github.com/UGA-BSAIL/BerryNet) 
 
 - Multi-view mobile platform for in-field blueberry phenotyping
 - YOLOv8 dedtector for blueberry detection
