@@ -33,15 +33,36 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 Presented Pheno-SAM project in <a href='https://www.aocabfe.org/'> IROS 2023 Agrobotic Workshop </a>!
+- *2024.07*: &nbsp;🎉🎉 Presented Plot-scale Peanut Yield estimation project in <a href='https://asabemeetings.org/'>ASABE 2024 </a>!
+- *2024.07*: &nbsp;🎉🎉 won the first prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student paper competition!
+- - *2024.07*: &nbsp;🎉🎉 won the service and leadership award in <a href='https://www.aocabfe.org/'>AOCABFE </a> (Student chair during Aguest 2023 - Auguest 2024)!
+- *2023.10*: &nbsp;🎉🎉 Presented Pheno-SAM project in <a href='https://sites.google.com/illinois.edu/iros2023-agrobotics'> IROS 2023 Agrobotic Workshop </a>!
 - *2023.07*: &nbsp;🎉🎉 won the second prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student oral presentation competition!
-- *2023.07*: &nbsp;🎉🎉 Presented robotic Blueberry phenotyping project in ASABE 2023!
+- *2023.07*: &nbsp;🎉🎉 Presented robotic Blueberry phenotyping project in  <a href='https://www.asabe.org/Events/2023-Annual-International-Meeting'>ASABE 2023 </a>!!
 - *2023.04*: &nbsp;🎉🎉 Presented PhenoBot with visual navigation in AGAI conference 2023!
 - *2023.01*: &nbsp;🎉🎉 Joined <a href='https://uflbsail.net/'>BSAIL Research Group</a> ， Agricultural and Biological Engineering department, University of Florida!
 
 # 💻 Projects
 
 ## Robotic Crop Phenotyping 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2024</div><a href="https://zhengkun-li.github.io/project/robotic_phenotyping"><img src='/images/publications/Plot-scale_peanut_yield_estimation.jpg' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robotic Plot-scale Peanut Counting and Yield Estimation using Transformer-based Image Stitching and Detection](https://elibrary.asabe.org/abstract.asp?aid=54774)
+
+**Zhengkun Li**, Rui Xu, Changying Li<sup>*</sup>, Barry Tillman, Nino Brown
+
+[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/Plot-scale_peanut_yield_estimation.pdf)     [**Presentation**](https://youtu.be/6KUX528KqG8)
+
+- Robotic plot-scale image stitching based on LoFTR
+- Improved real-time RTDETR for peanut pod detection
+- SHAI inference for large-resolution Image
+- Peanut Yield comparison based on plot-scale counting
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><a href="https://zhengkun-li.github.io/project/robotic_phenotyping"><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
