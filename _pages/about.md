@@ -27,10 +27,8 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 # 📖 Educations
 - *2023.01 - 2024.12 (now)*, Graduate student, Agricultural and Biological Engineering, University of Folorida, Gainesville, Folorida, USA
--  *2021.01 - 2022.12*, Graduate research Assistant, Electrical and Computer Engineering, University of Georgia, Athens, Georgia, USA.
+- *2021.01 - 2022.12*, Graduate research Assistant, Electrical and Computer Engineering, University of Georgia, Athens, Georgia, USA.
 - *2016.09 - 2020.06*, Undergraduate student, Mechanical Engineering, Northwest Agriculture and Forestry University, Yangling, Shaanxi, China.
-
-
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Presented Plot-scale Peanut Yield estimation project in <a href='https://asabemeetings.org/'>ASABE 2024 </a>!
