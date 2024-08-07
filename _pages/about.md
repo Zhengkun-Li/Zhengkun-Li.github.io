@@ -33,7 +33,7 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Presented Plot-scale Peanut Yield estimation project in <a href='https://asabemeetings.org/'>ASABE 2024 </a>!
 - *2024.07*: &nbsp;🎉🎉 won the first prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student paper competition!
-- - *2024.07*: &nbsp;🎉🎉 won the service and leadership award in <a href='https://www.aocabfe.org/'>AOCABFE </a> (Student chair during Aguest 2023 - Auguest 2024)!
+- *2024.07*: &nbsp;🎉🎉 won the service and leadership award in <a href='https://www.aocabfe.org/'>AOCABFE </a> (Student chair during Aguest 2023 - Auguest 2024)!
 - *2023.10*: &nbsp;🎉🎉 Presented Pheno-SAM project in <a href='https://sites.google.com/illinois.edu/iros2023-agrobotics'> IROS 2023 Agrobotic Workshop </a>!
 - *2023.07*: &nbsp;🎉🎉 won the second prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student oral presentation competition!
 - *2023.07*: &nbsp;🎉🎉 Presented robotic Blueberry phenotyping project in  <a href='https://www.asabe.org/Events/2023-Annual-International-Meeting'>ASABE 2023 </a>!!
@@ -159,6 +159,7 @@ Xing Liang, **Zhengkun Li**, Yingchao Peng, Gangying Shi<sup>*</sup> and Yan Lon
 
 
 # 📝 Publications & Conferences
+- **Zhengkun Li**, Rui Xu, Changying Li, Barry Tillman, and Nino Brown. "Robotic Plot-scale Peanut Counting and Yield Estimation using LoFTR-based Image Stitching and Improved RT-DETR." In 2024 ASABE Annual International Meeting, p. 1. American Society of Agricultural and Biological Engineers, 2024.
 - Liu, David, **Zhengkun Li**, Zihao Wu, and Changying Li. "Dt/mars-cyclegan: Improved object detection for mars phenotyping robot." arXiv preprint arXiv:2310.12787 (2023).
 - **Zhengkun Li**, and Changying Li. "Robotic Vegetable Production." In Encyclopedia of Smart Agriculture Technologies, pp. 1-12. Cham: Springer International Publishing, 2023.
 - **Zhengkun Li**, Changying Li, and Patricio Munoz. "Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection." In 2023 ASABE Annual International Meeting, p. 1. American Society of Agricultural and Biological Engineers, 2023.
@@ -171,7 +172,9 @@ Xing Liang, **Zhengkun Li**, Yingchao Peng, Gangying Shi<sup>*</sup> and Yan Lon
 
 
 # 🎖 Honors and Awards
-- *2023.07*, won the second prize in the AOCABFE student Paper Presentation competition 
+- *2024.07*, won the Service and Leadership Award from the AOCABFE
+- *2024.07*, won the first prize in the AOCABFE Student Paper competition 
+- *2023.07*, won the second prize in the AOCABFE Student Paper Presentation competition 
 - *2023.01-present*, Research Assistantship, University of Florida
 - *2022.07*, won the first prize in the AOCABFE student Paper writing competition 
 - *2021.01-2022.12*, Research Assistantship, University of Georgia
