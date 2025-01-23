@@ -124,7 +124,8 @@ defaults:
       path: "assets/uploads" # Match the media folder path in Netlify CMS
       type: pages
     values:
-      layout: default
+      layout: null
+      # layout: default
       author_profile: true
 
 
