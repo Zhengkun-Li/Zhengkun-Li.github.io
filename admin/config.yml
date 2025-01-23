@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: Zhengkun-Li/Zhengkun-Li.github.io # Replace with your GitHub repository path
+  branch: main # The branch used for GitHub Pages (usually "main" or "gh-pages")
+
+media_folder: "assets/uploads" # Folder where uploaded images will be stored
+public_folder: "/assets/uploads" # Public URL for accessing uploaded images
+
+collections:
+  - name: "pages" # Unique identifier for this collection
+    label: "Pages" # The label displayed in the CMS interface
+    folder: "_pages" # Path to the folder where pages are stored
+    create: true # Allow creating new pages
+    fields: # Define the fields for each page
+      - { label: "Title", name: "title", widget: "string" } # A title field (text input)
+      - { label: "Body", name: "body", widget: "markdown" } # A body field (Markdown editor)
+
+backend:
+  name: github
+  repo: Zhengkun-Li/Zhengkun-Li.github.io
+  branch: main
+  auth_endpoint: https://api.netlify.com
