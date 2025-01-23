@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 I am a robotics engineer and researcher working with <a href='https://www.tricrobotics.com/'>TRIC Robotics </a>, and focusing on agricultural robotics, automation, and deep learning-based perception techniques. I am proud of working with our teams to take cutting-edge AI technologies to our robotic system and data management system, enhancing automation’s robustness and smarter farming applications! 
 
-Before that, I studied Electrical and Biological Engineering at University of Georgia from Aug 2021 to Dec 2022. Then, I graduated from Agricultural and Biological Engineering at University of Folorida in December 2024. During the past years, I was a graduate research assistant in <a href='https://uflbsail.net/'>BSAIL Research Group</a>, working with <a href='https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en'> Dr.Changying Li </a>.
+Before that, I studied Electrical and Computer Engineering at University of Georgia from Aug 2021 to Dec 2022. Then, I graduated from Agricultural and Biological Engineering at University of Folorida in December 2024. During the past years, I was a graduate research assistant in <a href='https://uflbsail.net/'>BSAIL Research Group</a>, working with <a href='https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en'> Dr.Changying Li </a>.
 
 # 💻 Research Interests
 - *Agricultural Robotics*
