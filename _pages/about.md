@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a graduate student majoring in Agricultural and Biological Engineering at University of Folorida since 2023. I am a graduate research assistant in <a href='https://uflbsail.net/'>BSAIL Research Group</a>, working with <a href='https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en'> Dr.Changying Li </a> and researching in agricultural robotics, automation, and deep learning-based perception techniques.
+I am a robotics engineer and researcher working with <a href='https://www.tricrobotics.com/'>TRIC Robotics </a>, and focusing on agricultural robotics, automation, and deep learning-based perception techniques. I am proud of working with our teams to take cutting-edge AI technologies to our robotic system and data management system, enhancing automation’s robustness and smarter farming applications! 
+
+Before that, I studied Electrical and Biological Engineering at University of Georgia from Aug 2021 to Dec 2022. Then, I graduated from Agricultural and Biological Engineering at University of Folorida in December 2024. During the past years, I was a graduate research assistant in <a href='https://uflbsail.net/'>BSAIL Research Group</a>, working with <a href='https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en'> Dr.Changying Li </a>.
 
 # 💻 Research Interests
 - *Agricultural Robotics*
@@ -26,11 +28,14 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 - *High-Throughput Phenotyping*
 
 # 📖 Educations
-- *2023.01 - 2024.12 (now)*, Graduate student, Agricultural and Biological Engineering, University of Folorida, Gainesville, Folorida, USA
+- *2023.01 - 2024.12*, Master degree, Agricultural and Biological Engineering, University of Folorida, Gainesville, Folorida, USA
 - *2021.01 - 2022.12*, Graduate research Assistant, Electrical and Computer Engineering, University of Georgia, Athens, Georgia, USA.
 - *2016.09 - 2020.06*, Undergraduate student, Mechanical Engineering, Northwest Agriculture and Forestry University, Yangling, Shaanxi, China.
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Excited to join <a href='https://www.tricrobotics.com/'>TRIC Robotics </a> as robotic enngineer for robotic pest and disease control!
+- *2024.12*: &nbsp;🎉🎉 Graduated and received the Master degree from Agricultral and Boilogical Enfinnering, University of Frorida (<a href='https://www.linkedin.com/feed/update/urn:li:activity:7274230553447452672/'>"Post" </a>)!
+- *2024.12*: &nbsp;🎉🎉 The paper <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22473'>"Digital Twin/MARS‐CycleGAN" </a> has published on Journal of Field Robotics!
 - *2024.07*: &nbsp;🎉🎉 Presented Plot-scale Peanut Yield estimation project in <a href='https://asabemeetings.org/'>ASABE 2024 </a>!
 - *2024.07*: &nbsp;🎉🎉 won the first prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student paper competition!
 - *2024.07*: &nbsp;🎉🎉 won the service and leadership award in <a href='https://www.aocabfe.org/'>AOCABFE </a> (Student chair during Aguest 2023 - Auguest 2024)!
@@ -87,7 +92,7 @@ I am a graduate student majoring in Agricultural and Biological Engineering at U
 
 Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 
-[**Project**](https://github.com/UGA-BSAIL/DT-MARS-CycleGAN)  [**Paper**](/project/DT-cycle_GAN/DT-cycleGAN.pdf) [**Dataset**](https://www.kaggle.com/datasets/zhengkunli3969/dtmars-cyclegan)
+[**Project**](https://github.com/UGA-BSAIL/DT-MARS-CycleGAN)  [**Paper**](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22473) [**Dataset**](https://www.kaggle.com/datasets/zhengkunli3969/dtmars-cyclegan)
 
 - Digital twins for PhenoBot and agricultural field
 - DT-CycleGAN: generative agricultural field images
