@@ -164,6 +164,7 @@ Xing Liang, **Zhengkun Li**, Yingchao Peng, Gangying Shi<sup>*</sup> and Yan Lon
 
 
 # 📝 Publications & Conferences
+- Liu, David, **Zhengkun Li**, Zihao Wu, and Changying Li. "Digital Twin/MARS‐CycleGAN: Enhancing Sim‐to‐Real Crop/Row Detection for MARS Phenotyping Robot Using Synthetic Images." Journal of Field Robotics (2024).
 - **Zhengkun Li**, Rui Xu, Changying Li, Barry Tillman, and Nino Brown. "Robotic Plot-scale Peanut Counting and Yield Estimation using LoFTR-based Image Stitching and Improved RT-DETR." In 2024 ASABE Annual International Meeting, p. 1. American Society of Agricultural and Biological Engineers, 2024.
 - Liu, David, **Zhengkun Li**, Zihao Wu, and Changying Li. "Dt/mars-cyclegan: Improved object detection for mars phenotyping robot." arXiv preprint arXiv:2310.12787 (2023).
 - **Zhengkun Li**, and Changying Li. "Robotic Vegetable Production." In Encyclopedia of Smart Agriculture Technologies, pp. 1-12. Cham: Springer International Publishing, 2023.
