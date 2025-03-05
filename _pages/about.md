@@ -33,6 +33,7 @@ Before that, I studied Electrical and Computer Engineering at University of Geor
 - *2016.09 - 2020.06*, Undergraduate student, Mechanical Engineering, Northwest Agriculture and Forestry University, Yangling, Shaanxi, China.
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 New publication <a href='https://www.sciencedirect.com/science/article/pii/S0168169925001632'>"Robotic blueberry phenotyping using customized BerryNet" </a> has published on Computers and Electronics in Agriculture!
 - *2025.01*: &nbsp;🎉🎉 Excited to join <a href='https://www.tricrobotics.com/'>TRIC Robotics </a> as robotic enngineer for robotic pest and disease control!
 - *2024.12*: &nbsp;🎉🎉 Graduated and received the Master degree from Agricultral and Boilogical Enfinnering, University of Frorida (<a href='https://www.linkedin.com/feed/update/urn:li:activity:7274230553447452672/'>"Post" </a>)!
 - *2024.12*: &nbsp;🎉🎉 The paper <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22473'>"Digital Twin/MARS‐CycleGAN" </a> has published on Journal of Field Robotics!
@@ -74,7 +75,7 @@ Before that, I studied Electrical and Computer Engineering at University of Geor
 
 **Zhengkun Li**, Changying Li<sup>*</sup>, Rui Xu, Patricio Munoz
 
-[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)   [**Poster**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_phenotyping/robotic_blueberry_phenotyping_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=QKO6Pqt4tuA) [**Github**](https://github.com/UGA-BSAIL/BerryNet) 
+[**Journal**](https://www.sciencedirect.com/science/article/pii/S0168169925001632)[**Conference**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)   [**Poster**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_phenotyping/robotic_blueberry_phenotyping_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=QKO6Pqt4tuA) [**Github**](https://github.com/UGA-BSAIL/BerryNet) 
 
 - Multi-view mobile platform for in-field blueberry phenotyping
 - YOLOv8 dedtector for blueberry detection
@@ -164,6 +165,7 @@ Xing Liang, **Zhengkun Li**, Yingchao Peng, Gangying Shi<sup>*</sup> and Yan Lon
 
 
 # 📝 Publications & Conferences
+- **Li, Zhengkun**, Rui Xu, Changying Li, Patricio Munoz, Fumiomi Takeda, and Bruno Leme. "In-field blueberry fruit phenotyping with a MARS-PhenoBot and customized BerryNet." Computers and Electronics in Agriculture 232 (2025): 110057.
 - Liu, David, **Zhengkun Li**, Zihao Wu, and Changying Li. "Digital Twin/MARS‐CycleGAN: Enhancing Sim‐to‐Real Crop/Row Detection for MARS Phenotyping Robot Using Synthetic Images." Journal of Field Robotics (2024).
 - **Zhengkun Li**, Rui Xu, Changying Li, Barry Tillman, and Nino Brown. "Robotic Plot-scale Peanut Counting and Yield Estimation using LoFTR-based Image Stitching and Improved RT-DETR." In 2024 ASABE Annual International Meeting, p. 1. American Society of Agricultural and Biological Engineers, 2024.
 - Liu, David, **Zhengkun Li**, Zihao Wu, and Changying Li. "Dt/mars-cyclegan: Improved object detection for mars phenotyping robot." arXiv preprint arXiv:2310.12787 (2023).
