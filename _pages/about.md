@@ -108,7 +108,7 @@ Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 
 **Zhengkun Li**, Rui Xu, Changying Li<sup>*</sup>, and Longsheng Fu
 
-[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/Phenobot%20Simulation.pdf) [**Journal Publication**](https://www.sciencedirect.com/science/article/pii/S2772375525001431)  [**Poster**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_phenotyping/Phenobot_simulation_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=2MkA4huXI_0) 
+[**Journal**](https://www.sciencedirect.com/science/article/pii/S2772375525001431)  [**Conference**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/Phenobot%20Simulation.pdf)  [**Poster**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_phenotyping/Phenobot_simulation_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=2MkA4huXI_0) 
 
 - develop a phenotyping robot to perform field phenotyping tasks
 - design a vision-based navigation algorithm and evaluate its efficacy
