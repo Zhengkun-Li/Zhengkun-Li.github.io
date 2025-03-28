@@ -33,6 +33,7 @@ Before that, I studied Electrical and Computer Engineering at University of Geor
 - *2016.09 - 2020.06*, Undergraduate student, Mechanical Engineering, Northwest Agriculture and Forestry University, Yangling, Shaanxi, China.
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 New publication <a href='https://www.sciencedirect.com/science/article/pii/S2772375525001431'>"Visual navigation and crop mapping of a phenotyping robot MARS-PhenoBot in simulation" </a> has published on Smart Agricultural Technology!
 - *2025.02*: &nbsp;🎉🎉 New publication <a href='https://www.sciencedirect.com/science/article/pii/S0168169925001632'>"Robotic blueberry phenotyping using customized BerryNet" </a> has published on Computers and Electronics in Agriculture!
 - *2025.01*: &nbsp;🎉🎉 Excited to join <a href='https://www.tricrobotics.com/'>TRIC Robotics </a> as robotic enngineer for robotic pest and disease control!
 - *2024.12*: &nbsp;🎉🎉 Graduated and received the Master degree from Agricultral and Boilogical Enfinnering, University of Frorida (<a href='https://www.linkedin.com/feed/update/urn:li:activity:7274230553447452672/'>"Post" </a>)!
@@ -65,7 +66,6 @@ Before that, I studied Electrical and Computer Engineering at University of Geor
 - Peanut Yield comparison based on plot-scale counting
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><a href="https://zhengkun-li.github.io/project/robotic_phenotyping"><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></a></div></div>
@@ -108,7 +108,7 @@ Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 
 **Zhengkun Li**, Rui Xu, Changying Li<sup>*</sup>, and Longsheng Fu
 
-[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/Phenobot%20Simulation.pdf)   [**Poster**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_phenotyping/Phenobot_simulation_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=2MkA4huXI_0) 
+[**Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/Phenobot%20Simulation.pdf) [**Journal Publication**](https://www.sciencedirect.com/science/article/pii/S2772375525001431)  [**Poster**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_phenotyping/Phenobot_simulation_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=2MkA4huXI_0) 
 
 - develop a phenotyping robot to perform field phenotyping tasks
 - design a vision-based navigation algorithm and evaluate its efficacy
@@ -165,6 +165,7 @@ Xing Liang, **Zhengkun Li**, Yingchao Peng, Gangying Shi<sup>*</sup> and Yan Lon
 
 
 # 📝 Publications & Conferences
+- **Li, Zhengkun**, Rui Xu, Changying Li, and Longsheng Fu. "Visual Navigation and Crop Mapping of a Phenotyping Robot MARS-PhenoBot in Simulation." Smart Agricultural Technology (2025): 100910.
 - **Li, Zhengkun**, Rui Xu, Changying Li, Patricio Munoz, Fumiomi Takeda, and Bruno Leme. "In-field blueberry fruit phenotyping with a MARS-PhenoBot and customized BerryNet." Computers and Electronics in Agriculture 232 (2025): 110057.
 - Liu, David, **Zhengkun Li**, Zihao Wu, and Changying Li. "Digital Twin/MARS‐CycleGAN: Enhancing Sim‐to‐Real Crop/Row Detection for MARS Phenotyping Robot Using Synthetic Images." Journal of Field Robotics (2024).
 - **Zhengkun Li**, Rui Xu, Changying Li, Barry Tillman, and Nino Brown. "Robotic Plot-scale Peanut Counting and Yield Estimation using LoFTR-based Image Stitching and Improved RT-DETR." In 2024 ASABE Annual International Meeting, p. 1. American Society of Agricultural and Biological Engineers, 2024.
