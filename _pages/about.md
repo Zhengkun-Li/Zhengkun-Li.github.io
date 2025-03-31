@@ -40,7 +40,7 @@ Before that, I studied Electrical and Computer Engineering at University of Geor
 - *2024.12*: &nbsp;🎉🎉 The paper <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22473'>"Digital Twin/MARS‐CycleGAN" </a> has published on Journal of Field Robotics!
 - *2024.07*: &nbsp;🎉🎉 Presented Plot-scale Peanut Yield estimation project in <a href='https://asabemeetings.org/'>ASABE 2024 </a>!
 - *2024.07*: &nbsp;🎉🎉 won the first prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student paper competition!
-- *2024.07*: &nbsp;🎉🎉 won the service and leadership award in <a href='https://www.aocabfe.org/'>AOCABFE </a> (Student chair during Aguest 2023 - Auguest 2024)!
+- *2024.07*: &nbsp;🎉🎉 won the service and leadership award in ASABE <a href='https://www.aocabfe.org/'>AOCABFE </a> (Student chair during Aguest 2023 - Auguest 2024)!
 - *2023.10*: &nbsp;🎉🎉 Presented Pheno-SAM project in <a href='https://sites.google.com/illinois.edu/iros2023-agrobotics'> IROS 2023 Agrobotic Workshop </a>!
 - *2023.07*: &nbsp;🎉🎉 won the second prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student oral presentation competition!
 - *2023.07*: &nbsp;🎉🎉 Presented robotic Blueberry phenotyping project in  <a href='https://www.asabe.org/Events/2023-Annual-International-Meeting'>ASABE 2023 </a>!!
