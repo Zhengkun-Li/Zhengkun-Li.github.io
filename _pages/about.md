@@ -36,17 +36,17 @@ Before that, I studied Electrical and Computer Engineering at University of Geor
 - *2025.07*: &nbsp;🎉🎉 New publication <a href='https://www.sciencedirect.com/science/article/pii/S2772375525003867'>"Plot-scale peanut yield estimation using a phenotyping robot and transformer-based image analysis" </a> has published on Smart Agricultural Technology!
 - *2025.03*: &nbsp;🎉🎉 New publication <a href='https://www.sciencedirect.com/science/article/pii/S2772375525001431'>"Visual navigation and crop mapping of a phenotyping robot MARS-PhenoBot in simulation" </a> has published on Smart Agricultural Technology!
 - *2025.02*: &nbsp;🎉🎉 New publication <a href='https://www.sciencedirect.com/science/article/pii/S0168169925001632'>"Robotic blueberry phenotyping using customized BerryNet" </a> has published on Computers and Electronics in Agriculture!
-- *2025.01*: &nbsp;🎉🎉 Excited to join <a href='https://www.tricrobotics.com/'>TRIC Robotics </a> as robotic enngineer for robotic pest and disease control!
-- *2024.12*: &nbsp;🎉🎉 Graduated and received the Master degree from Agricultral and Boilogical Enfinnering, University of Frorida (<a href='https://www.linkedin.com/feed/update/urn:li:activity:7274230553447452672/'>"Post" </a>)!
-- *2024.12*: &nbsp;🎉🎉 The paper <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22473'>"Digital Twin/MARS‐CycleGAN" </a> has published on Journal of Field Robotics!
-- *2024.07*: &nbsp;🎉🎉 Presented Plot-scale Peanut Yield estimation project in <a href='https://asabemeetings.org/'>ASABE 2024 </a>!
-- *2024.07*: &nbsp;🎉🎉 won the first prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student paper competition!
-- *2024.07*: &nbsp;🎉🎉 won the service and leadership award in ASABE <a href='https://www.aocabfe.org/'>AOCABFE </a> (Student chair during Aguest 2023 - Auguest 2024)!
-- *2023.10*: &nbsp;🎉🎉 Presented Pheno-SAM project in <a href='https://sites.google.com/illinois.edu/iros2023-agrobotics'> IROS 2023 Agrobotic Workshop </a>!
-- *2023.07*: &nbsp;🎉🎉 won the second prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student oral presentation competition!
-- *2023.07*: &nbsp;🎉🎉 Presented robotic Blueberry phenotyping project in  <a href='https://www.asabe.org/Events/2023-Annual-International-Meeting'>ASABE 2023 </a>!!
-- *2023.04*: &nbsp;🎉🎉 Presented PhenoBot with visual navigation in AGAI conference 2023!
-- *2023.01*: &nbsp;🎉🎉 Joined <a href='https://uflbsail.net/'>BSAIL Research Group</a> ， Agricultural and Biological Engineering department, University of Florida!
+- *2025.01*: &nbsp;👨‍💻👨‍💻 Excited to join <a href='https://www.tricrobotics.com/'>TRIC Robotics </a> as robotic enngineer for robotic pest and disease control!
+- *2024.12*: &nbsp;🎓🎓 Graduated and received the Master degree from Agricultral and Boilogical Enfinnering, University of Frorida (<a href='https://www.linkedin.com/feed/update/urn:li:activity:7274230553447452672/'>"Post" </a>)!
+- *2024.12*: &nbsp;🎉🎉 The paper <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22473'>"Digital Twin/MARS‐CycleGAN" </a> has published on Journal of Field Robotics! 
+- *2024.07*: &nbsp;📢📢 Presented Plot-scale Peanut Yield estimation project in <a href='https://asabemeetings.org/'>ASABE 2024 </a>!
+- *2024.07*: &nbsp;🏆🏆 won the first prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student paper competition!
+- *2024.07*: &nbsp;🏆🏆 won the service and leadership award in ASABE <a href='https://www.aocabfe.org/'>AOCABFE </a> (Student chair during Aguest 2023 - Auguest 2024)!
+- *2023.10*: &nbsp;📢📢 Presented Pheno-SAM project in <a href='https://sites.google.com/illinois.edu/iros2023-agrobotics'> IROS 2023 Agrobotic Workshop </a>!
+- *2023.07*: &nbsp;🏆🏆 won the second prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student oral presentation competition!
+- *2023.07*: &nbsp;📢📢 Presented robotic Blueberry phenotyping project in  <a href='https://www.asabe.org/Events/2023-Annual-International-Meeting'>ASABE 2023 </a>!!
+- *2023.04*: &nbsp;📢📢 Presented PhenoBot with visual navigation in AGAI conference 2023!
+- *2023.01*: &nbsp;👨‍💻👨‍💻 Joined <a href='https://uflbsail.net/'>BSAIL Research Group</a> ， Agricultural and Biological Engineering department, University of Florida!
 
 # 💻 Projects
 
