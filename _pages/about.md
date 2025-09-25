@@ -28,8 +28,9 @@ Before that, I studied Electrical and Computer Engineering at University of Geor
 - *High-Throughput Phenotyping*
 
 # 📖 Educations
-- *2023.01 - 2024.12*, Master degree, Agricultural and Biological Engineering, University of Folorida, Gainesville, Folorida, USA
-- *2021.01 - 2022.12*, Graduate research Assistant, Electrical and Computer Engineering, University of Georgia, Athens, Georgia, USA.
+- *2024.12*, Master degree, Agricultural and Biological Engineering, University of Folorida, Gainesville, Folorida, USA
+- *2023.01 - 2024.12*, PhD student (Graduate research Assistant), Agricultural and Biological Engineering, University of Folorida, Gainesville, Folorida, USA
+- *2021.01 - 2022.12*, PhD student (Graduate research Assistant), Electrical and Computer Engineering, University of Georgia, Athens, Georgia, USA.
 - *2016.09 - 2020.06*, Undergraduate student, Mechanical Engineering, Northwest Agriculture and Forestry University, Yangling, Shaanxi, China.
 
 # 🔥 News
