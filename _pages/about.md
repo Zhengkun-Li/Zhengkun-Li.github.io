@@ -30,26 +30,26 @@ In late 2024, I transitioned from academia to industry by joining agtech startup
 - *High-Throughput Phenotyping*
 
 # 📖 Educations
-- *2024.12*, Master degree, Agricultural and Biological Engineering, University of Folorida, Gainesville, Folorida, USA
-- *2023.01 - 2024.12*, PhD student, Agricultural and Biological Engineering, University of Folorida, Gainesville, Folorida, USA
-- *2021.01 - 2022.12*, PhD student, Electrical and Computer Engineering, University of Georgia, Athens, Georgia, USA.
-- *2016.09 - 2020.06*, Undergraduate student, Mechanical Engineering, Northwest Agriculture and Forestry University, Yangling, Shaanxi, China.
+- *2024.12* — M.S., Agricultural and Biological Engineering, University of Florida, Gainesville, USA
+- *2023.01 – 2024.12* — Ph.D. Student, Agricultural and Biological Engineering, University of Florida, Gainesville, USA
+- *2021.08 – 2022.12* — Ph.D. Student, Electrical and Computer Engineering, University of Georgia, Athens, USA
+- *2016.09 – 2020.06* — B.Eng., Mechanical Engineering, Northwest A&F University, Yangling, China
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 New publication <a href='https://www.sciencedirect.com/science/article/pii/S2772375525003867'>"Plot-scale peanut yield estimation using a phenotyping robot and transformer-based image analysis" </a> has published on Smart Agricultural Technology!
-- *2025.03*: &nbsp;🎉🎉 New publication <a href='https://www.sciencedirect.com/science/article/pii/S2772375525001431'>"Visual navigation and crop mapping of a phenotyping robot MARS-PhenoBot in simulation" </a> has published on Smart Agricultural Technology!
-- *2025.02*: &nbsp;🎉🎉 New publication <a href='https://www.sciencedirect.com/science/article/pii/S0168169925001632'>"Robotic blueberry phenotyping using customized BerryNet" </a> has published on Computers and Electronics in Agriculture!
-- *2025.01*: &nbsp;👨‍💻👨‍💻 Excited to join <a href='https://www.tricrobotics.com/'>TRIC Robotics </a> as robotic enngineer for robotic pest and disease control!
-- *2024.12*: &nbsp;🎓🎓 Graduated and received the Master degree from Agricultral and Boilogical Enfinnering, University of Frorida (<a href='https://www.linkedin.com/feed/update/urn:li:activity:7274230553447452672/'>"Post" </a>)!
-- *2024.12*: &nbsp;🎉🎉 The paper <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22473'>"Digital Twin/MARS‐CycleGAN" </a> has published on Journal of Field Robotics! 
-- *2024.07*: &nbsp;📢📢 Presented Plot-scale Peanut Yield estimation project in <a href='https://asabemeetings.org/'>ASABE 2024 </a>!
-- *2024.07*: &nbsp;🏆🏆 won the first prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student paper competition!
-- *2024.07*: &nbsp;🏆🏆 won the service and leadership award in ASABE <a href='https://www.aocabfe.org/'>AOCABFE </a> (Student chair during Aguest 2023 - Auguest 2024)!
-- *2023.10*: &nbsp;📢📢 Presented Pheno-SAM project in <a href='https://sites.google.com/illinois.edu/iros2023-agrobotics'> IROS 2023 Agrobotic Workshop </a>!
-- *2023.07*: &nbsp;🏆🏆 won the second prize in <a href='https://www.aocabfe.org/'>AOCABFE </a> student oral presentation competition!
-- *2023.07*: &nbsp;📢📢 Presented robotic Blueberry phenotyping project in  <a href='https://www.asabe.org/Events/2023-Annual-International-Meeting'>ASABE 2023 </a>!!
-- *2023.04*: &nbsp;📢📢 Presented PhenoBot with visual navigation in AGAI conference 2023!
-- *2023.01*: &nbsp;👨‍💻👨‍💻 Joined <a href='https://uflbsail.net/'>BSAIL Research Group</a> ， Agricultural and Biological Engineering department, University of Florida!
+- *2025.07* 🎉 New publication <a href='https://www.sciencedirect.com/science/article/pii/S2772375525003867'>"Plot-scale peanut yield estimation using a phenotyping robot and transformer-based image analysis"</a> published in *Smart Agricultural Technology*.
+- *2025.03* 🎉 New publication <a href='https://www.sciencedirect.com/science/article/pii/S2772375525001431'>"Visual navigation and crop mapping of a phenotyping robot MARS-PhenoBot in simulation"</a> published in *Smart Agricultural Technology*.
+- *2025.02* 🎉 New publication <a href='https://www.sciencedirect.com/science/article/pii/S0168169925001632'>"Robotic blueberry phenotyping using customized BerryNet"</a> published in *Computers and Electronics in Agriculture*.
+- *2025.01* 👨‍💻 Joined <a href='https://www.tricrobotics.com/'>TRIC Robotics</a> as robotic engineer for robotic pest and disease control.
+- *2024.12* 🎓 Graduated with Master’s degree in Agricultural and Biological Engineering, University of Florida (<a href='https://www.linkedin.com/feed/update/urn:li:activity:7274230553447452672/'>Post</a>).
+- *2024.12* 🎉 Publication <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22473'>"Digital Twin/MARS‐CycleGAN"</a> published in *Journal of Field Robotics*.
+- *2024.07* 📢 Presented plot-scale peanut yield estimation project at <a href='https://asabemeetings.org/'>ASABE 2024</a>.
+- *2024.07* 🏆 Won **first prize** in <a href='https://www.aocabfe.org/'>AOCABFE</a> student paper competition.
+- *2024.07* 🏆 Won **Service and Leadership Award** in ASABE <a href='https://www.aocabfe.org/'>AOCABFE</a> (served as Student Chair, 2023.08 – 2024.08).
+- *2023.10* 📢 Presented Pheno-SAM project at <a href='https://sites.google.com/illinois.edu/iros2023-agrobotics'>IROS 2023 Agrobotics Workshop</a>.
+- *2023.07* 🏆 Won **second prize** in <a href='https://www.aocabfe.org/'>AOCABFE</a> student oral presentation competition.
+- *2023.07* 📢 Presented robotic blueberry phenotyping project at <a href='https://www.asabe.org/Events/2023-Annual-International-Meeting'>ASABE 2023</a>.
+- *2023.04* 📢 Presented PhenoBot with visual navigation at AGAI Conference 2023.
+- *2023.01* 👨‍💻 Joined <a href='https://uflbsail.net/'>BSAIL Research Group</a>, Agricultural and Biological Engineering, University of Florida.
 
 # 💻 Projects
 
@@ -82,7 +82,7 @@ In late 2024, I transitioned from academia to industry by joining agtech startup
 [**Journal**](https://www.sciencedirect.com/science/article/pii/S0168169925001632)  [**Conference**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)   [**Poster**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_phenotyping/robotic_blueberry_phenotyping_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=QKO6Pqt4tuA) [**Github**](https://github.com/UGA-BSAIL/BerryNet) 
 
 - Multi-view mobile platform for in-field blueberry phenotyping
-- YOLOv8 dedtector for blueberry detection
+- YOLOv8 detector for blueberry detection
 - Blueberry yield evaluation with multi-view regression
 </div>
 </div>
@@ -137,7 +137,7 @@ Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Innovation trainning 2018-2020</div><img src='/project/tomato_classifier/figures/tomato classifier.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Innovation training 2018-2020</div><img src='/project/tomato_classifier/figures/tomato classifier.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Tomato grading system](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219803)
@@ -155,7 +155,7 @@ Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Agrobot competition 2017-2018</div><img src='project/robotic_competition/figures/robotic_competition.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Agriclture Harvesting Robot Competition]()
+[Agriculture Harvesting Robot Competition]()
 
 Xing Liang, **Zhengkun Li**, Yingchao Peng, Gangying Shi<sup>*</sup> and Yan Long<sup>*</sup>
 
@@ -169,36 +169,36 @@ Xing Liang, **Zhengkun Li**, Yingchao Peng, Gangying Shi<sup>*</sup> and Yan Lon
 
 
 # 📝 Publications & Conferences
-- **Li, Zhengkun**, Rui Xu, Nino Brown,Barry L. Tillman, Changying Li, . "Plot-Scale Peanut Yield Estimation using a Phenotyping Robot and Transformer-based Image Analysis." Smart Agricultural Technology (2025): 101154.
-- **Li, Zhengkun**, Rui Xu, Changying Li, and Longsheng Fu. "Visual Navigation and Crop Mapping of a Phenotyping Robot MARS-PhenoBot in Simulation." Smart Agricultural Technology (2025): 100910.
-- **Li, Zhengkun**, Rui Xu, Changying Li, Patricio Munoz, Fumiomi Takeda, and Bruno Leme. "In-field blueberry fruit phenotyping with a MARS-PhenoBot and customized BerryNet." Computers and Electronics in Agriculture 232 (2025): 110057.
-- Liu, David, **Zhengkun Li**, Zihao Wu, and Changying Li. "Digital Twin/MARS‐CycleGAN: Enhancing Sim‐to‐Real Crop/Row Detection for MARS Phenotyping Robot Using Synthetic Images." Journal of Field Robotics (2024).
-- **Zhengkun Li**, Rui Xu, Changying Li, Barry Tillman, and Nino Brown. "Robotic Plot-scale Peanut Counting and Yield Estimation using LoFTR-based Image Stitching and Improved RT-DETR." In 2024 ASABE Annual International Meeting, p. 1. American Society of Agricultural and Biological Engineers, 2024.
-- Liu, David, **Zhengkun Li**, Zihao Wu, and Changying Li. "Dt/mars-cyclegan: Improved object detection for mars phenotyping robot." arXiv preprint arXiv:2310.12787 (2023).
-- **Zhengkun Li**, and Changying Li. "Robotic Vegetable Production." In Encyclopedia of Smart Agriculture Technologies, pp. 1-12. Cham: Springer International Publishing, 2023.
-- **Zhengkun Li**, Changying Li, and Patricio Munoz. "Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection." In 2023 ASABE Annual International Meeting, p. 1. American Society of Agricultural and Biological Engineers, 2023.
-- **Zhengkun Li**, Rui Xu, Changying Li, and Longsheng Fu. "Simulation of an In-field Phenotyping Robot: System Design, Vision-based Navigation and Field Mapping." In 2022 ASABE Annual International Meeting, p. 1. American Society of Agricultural and Biological Engineers, 2022.
-- Liu, Li, **Zhengkun Li**, Yufei Lan, Yinggang Shi, and Yongjie Cui. "Design of a tomato classifier based on machine vision." PloS one 14, no. 7 (2019): e0219803.
-- Liu, Li, Xinyu Li, **Zhengkun Li**, and Yinggang Shi. "Application of electronic nose in detection of fresh vegetables freezing time considering odor identification technology." Chemical engineering transactions 68 (2018): 265-270.
-## Patents
-- **Zhengkun Li**, Li Jianxing, Liu Qunming, etc. A fruit sorting and grabbing mechanism: China, 201821703500.1 [P]. May 14, 2019 
-- **Zhengkun Li**, Liu Qunming, LAN Yufei, etc. An automatic fruit grading system: China, 201821703511.X [P]. July 5, 2019 
+- **Li, Z.**, Xu, R., Brown, N., Tillman, B. L., & Li, C. (2025). Plot-scale peanut yield estimation using a phenotyping robot and transformer-based image analysis. *Smart Agricultural Technology*, 101154. https://doi.org/10.1016/j.satech.2025.101154
+- **Li, Z.**, Xu, R., Li, C., & Fu, L. (2025). Visual navigation and crop mapping of a phenotyping robot MARS-PhenoBot in simulation. *Smart Agricultural Technology*, 100910. https://doi.org/10.1016/j.satech.2025.100910
+- **Li, Z.**, Xu, R., Li, C., Munoz, P., Takeda, F., & Leme, B. (2025). In-field blueberry fruit phenotyping with a MARS-PhenoBot and customized BerryNet. *Computers and Electronics in Agriculture*, 232, 110057. https://doi.org/10.1016/j.compag.2025.110057
+- Liu, D., **Li, Z.**, Wu, Z., & Li, C. (2024). Digital Twin/MARS‐CycleGAN: Enhancing Sim‐to‐Real crop/row detection for MARS phenotyping robot using synthetic images. *Journal of Field Robotics*. https://doi.org/10.1002/rob.22473
+- **Li, Z.**, Xu, R., Li, C., Tillman, B., & Brown, N. (2024). Robotic plot-scale peanut counting and yield estimation using LoFTR-based image stitching and improved RT-DETR. In *Proceedings of the ASABE Annual International Meeting* (pp. 1–7). St. Joseph, MI: ASABE. https://elibrary.asabe.org/abstract.asp?aid=54774
+- Liu, D., **Li, Z.**, Wu, Z., & Li, C. (2023). Dt/MARS-CycleGAN: Improved object detection for MARS phenotyping robot. *arXiv preprint* arXiv:2310.12787.
+- **Li, Z.**, & Li, C. (2023). Robotic vegetable production. In *Encyclopedia of Smart Agriculture Technologies* (pp. 1–12). Cham: Springer International Publishing. https://doi.org/10.1007/978-3-031-37766-4_104-1
+- **Li, Z.**, Li, C., & Munoz, P. (2023). Blueberry yield estimation through multi-view imagery with YOLOv8 object detection. In *Proceedings of the ASABE Annual International Meeting* (pp. 1–6). St. Joseph, MI: ASABE. https://elibrary.asabe.org/abstract.asp?aid=54189
+- **Li, Z.**, Xu, R., Li, C., & Fu, L. (2022). Simulation of an in-field phenotyping robot: System design, vision-based navigation, and field mapping. In *Proceedings of the ASABE Annual International Meeting* (pp. 1–7). St. Joseph, MI: ASABE. https://elibrary.asabe.org/abstract.asp?aid=53452
+- Liu, L., **Li, Z.**, Lan, Y., Shi, Y., & Cui, Y. (2019). Design of a tomato classifier based on machine vision. *PLoS ONE*, 14(7), e0219803. https://doi.org/10.1371/journal.pone.0219803
+- Liu, L., Li, X., **Li, Z.**, & Shi, Y. (2018). Application of electronic nose in detection of fresh vegetables freezing time considering odor identification technology. *Chemical Engineering Transactions*, 68, 265–270. https://doi.org/10.3303/CET1868045
 
+## 📑 Patents
+- **Li, Z.**, Jianxing, L., Qunming, L., et al. (2019). A fruit sorting and grabbing mechanism. China Patent No. 201821703500.1. Filed May 14, 2019.
+- **Li, Z.**, Qunming, L., Yufei, L., et al. (2019). An automatic fruit grading system. China Patent No. 201821703511.X. Filed July 5, 2019.
 
 # 🎖 Honors and Awards
-- *2024.07*, won the Service and Leadership Award from the AOCABFE
-- *2024.07*, won the first prize in the AOCABFE Student Paper competition 
-- *2023.07*, won the second prize in the AOCABFE Student Paper Presentation competition 
-- *2023.01-present*, Research Assistantship, University of Florida
-- *2022.07*, won the first prize in the AOCABFE student Paper writing competition 
-- *2021.01-2022.12*, Research Assistantship, University of Georgia
-- *2018.12*, won the first prize at Intelligent Agricultural Equipment Innovation (National level)
-- *2018.08*, won the first prize at China Robot Competition (National level) - Harvesting robot Competition
-- *2016.09-2020.6*, China National Inspiration Scholarship, Northwest Agriculture and Forestry University (Top 5%)
-- *2016.09-2020.6*, First-order Major scholarship, Northwest Agriculture and Forestry University (Top 10%)
+- *2024.07* 🏆 **Li, Z.** — Service and Leadership Award, AOCABFE  
+- *2024.07* 🏆 **Li, Z.** — First Prize, AOCABFE Student Paper Competition  
+- *2023.07* 🏆 **Li, Z.** — Second Prize, AOCABFE Student Oral Presentation Competition  
+- *2023.01 – 2024.12* 🎓 **Li, Z.** — Research Assistantship, University of Florida  
+- *2022.07* 🏆 **Li, Z.** — First Prize, AOCABFE Student Paper Writing Competition  
+- *2021.01 – 2022.12* 🎓 **Li, Z.** — Research Assistantship, University of Georgia  
+- *2018.12* 🏆 **Li, Z.** — First Prize, Intelligent Agricultural Equipment Innovation (National level)  
+- *2018.08* 🏆 **Li, Z.** — First Prize, China Robot Competition (National level, Harvesting Robot)  
+- *2016.09 – 2020.06* 🎓 **Li, Z.** — China National Inspiration Scholarship, Northwest A&F University (Top 5%)  
+- *2016.09 – 2020.06* 🎓 **Li, Z.** — First-order Major Scholarship, Northwest A&F University (Top 10%)
 
 # 💬 Leaderships
-- *2023.08-2024.08*, Chair of Student Activities Committee in Assiciation of OVerseas Chinese Agricultural, Biological and Food Engineering（<a href='https://www.aocabfe.org/'>AOCABFE </a>）
+- *2023.08-2024.08*, Chair of Student Activities Committee in Association of Overseas Chinese Agricultural, Biological and Food Engineering（<a href='https://www.aocabfe.org/'>AOCABFE </a>）
 - *2018.06-2019.12*, Chair of Intelligent Agricultural Equipment Student Club.
 
 # 💻 Professional Memberships
