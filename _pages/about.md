@@ -18,9 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a robotics engineer and researcher working with <a href='https://www.tricrobotics.com/'>TRIC Robotics </a>, and focusing on agricultural robotics, automation, and deep learning-based perception techniques. I am proud of working with our teams to take cutting-edge AI technologies to our robotic system and data management system, enhancing automation’s robustness and smarter farming applications! 
+I am a robotics engineer and researcher at <a href='https://www.tricrobotics.com/'>TRIC Robotics</a>, specializing in agricultural robotics, automation, and deep learning-based perception. My work focuses on integrating advanced AI technologies into robotic and data systems to improve automation robustness and enable smarter farming solutions.
 
-Before that, I studied Electrical and Computer Engineering at University of Georgia from Aug 2021 to Dec 2022. Then, I graduated from Agricultural and Biological Engineering at University of Folorida in December 2024. During the past years, I was a graduate research assistant in <a href='https://uflbsail.net/'>BSAIL Research Group</a>, working with <a href='https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en'> Dr.Changying Li </a>.
+My academic journey began at the University of Georgia, where I started my Ph.D. in Electrical and Computer Engineering in August 2021 under the supervision of <a href='https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en'>Dr. Changying Li</a>. In January 2023, I transferred with Dr. Li to the University of Florida to continue doctoral studies in Agricultural and Biological Engineering. During this time, I served as a graduate research assistant in the <a href='https://uflbsail.net/'>BSAIL Research Group</a>, conducting research on agricultural robotics and automation until December 2024.
+
+In late 2024, I transitioned from academia to industry by joining TRIC Robotics, where I contribute to advancing chemical-free farming through robotics and supporting the company’s mission to drive sustainable agriculture.
 
 # 💻 Research Interests
 - *Agricultural Robotics*
