@@ -22,7 +22,7 @@ I am a robotics engineer and researcher at <a href='https://www.tricrobotics.com
 
 My academic journey began at the University of Georgia, where I started my Ph.D. in Electrical and Computer Engineering in August 2021 under the supervision of <a href='https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en'>Dr. Changying Li</a>. In January 2023, I transferred with Dr. Li to the University of Florida to continue doctoral studies in Agricultural and Biological Engineering. During this academic time, I served as a graduate research assistant in the <a href='https://uflbsail.net/'>BSAIL Research Group</a>, conducting research on agricultural robotics and automation until December 2024.
 
-In late 2024, I transitioned from academia to industry by joining TRIC Robotics, where I contribute to advancing chemical-free farming through robotics and supporting the company’s mission to drive sustainable agriculture.
+In late 2024, I transitioned from academia to industry by joining agtech startup as core robotic enginner, TRIC Robotics, where I contribute to advancing chemical-free farming through robotics and supporting the company’s mission to drive sustainable agriculture.
 
 # 💻 Research Interests
 - *Agricultural Robotics*
