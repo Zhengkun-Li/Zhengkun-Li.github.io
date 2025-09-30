@@ -1,0 +1,42 @@
+<!-- _includes/gallery.html -->
+{% assign _title = include.title | default: "📷 Pictures" %}
+{% assign _folder = include.folder | default: "" %}
+{% assign _cols = include.columns | default: "3" %}
+{% assign _gap = include.gap | default: "8px" %}
+{% assign _thumb_h = include.thumb_max_height | default: "220px" %}
+
+<h2>{{ _title }}</h2>
+<p>Click any picture to view in full screen.</p>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+<style>
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat({{ _cols }}, minmax(0, 1fr));
+    gap: {{ _gap }};
+  }
+  .gallery-grid a {
+    display: block;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .gallery-grid img {
+    width: 100%;
+    height: auto;
+    max-height: {{ _thumb_h }};
+    object-fit: cover;
+    display: block;
+  }
+</style>
+
+<div class="gallery-grid">
+  {% assign project_images = site.static_files | where_exp: "file", "file.path contains _folder" | sort: "path" %}
+  {% for image in project_images %}
+    {% assign filename = image.path | split: "/" | last %}
+    <a href="{{ image.path }}" data-lightbox="{{ _folder | replace: '/', '-' }}" data-title="{{ filename }}">
+      <img src="{{ image.path }}" alt="{{ filename }}">
+    </a>
+  {% endfor %}
+</div>
