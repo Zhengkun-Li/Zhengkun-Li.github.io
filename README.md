@@ -63,7 +63,7 @@ Some examples:
 1. Run `bash run_server.sh` to start Jekyll livereload server.
 1. Open http://127.0.0.1:4000 in your browser.
 1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+1. When you finish the modification of your homepage, `commit` your changes and `push` to your remote REPO using `git` command.
 
 # Acknowledges
 
