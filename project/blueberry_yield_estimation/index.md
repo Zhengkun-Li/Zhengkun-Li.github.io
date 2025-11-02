@@ -68,7 +68,7 @@ The system demonstrated:
 ## 🔗 Resources
 
 - [**Conference Paper**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)
-- [**Poster**](/project/robotic_phenotyping/robotic_blueberry_phenotyping_poster.pdf)
+- [**Poster**](/project/blueberry_yield_estimation/documents/robotic_blueberry_phenotyping_poster.pdf)
 - [**Presentation Video**](https://www.youtube.com/watch?v=QKO6Pqt4tuA)
 - [**GitHub Repository**](https://github.com/UGA-BSAIL/BerryNet)
 

@@ -55,14 +55,14 @@ In late 2024, I transitioned from academia to industry by joining agtech startup
 
 ## Robotic Crop Phenotyping 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2024</div><a href="https://zhengkun-li.github.io/project/robotic_phenotyping"><img src='/images/publications/Plot-scale_peanut_yield_estimation.jpg' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2024</div><a href="/project/peanut_yield_estimation/"><img src='/images/publications/Plot-scale_peanut_yield_estimation.jpg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robotic Plot-scale Peanut Counting and Yield Estimation using Transformer-based Image Stitching and Detection](https://elibrary.asabe.org/abstract.asp?aid=54774)
 
 **Zhengkun Li**, Rui Xu, Changying Li<sup>*</sup>, Barry Tillman, Nino Brown
 
-[**Journal**](https://www.sciencedirect.com/science/article/pii/S2772375525003867)  [**Conference**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/Plot-scale_peanut_yield_estimation.pdf)     [**Presentation**](https://youtu.be/6KUX528KqG8)
+[**Journal**](https://www.sciencedirect.com/science/article/pii/S2772375525003867)  [**Conference**](/project/peanut_yield_estimation/documents/Plot-scale_peanut_yield_estimation.pdf)     [**Presentation**](https://youtu.be/6KUX528KqG8)
 
 - Robotic plot-scale image stitching based on LoFTR
 - Improved real-time RTDETR for peanut pod detection
@@ -79,7 +79,7 @@ In late 2024, I transitioned from academia to industry by joining agtech startup
 
 **Zhengkun Li**, Changying Li<sup>*</sup>, Rui Xu, Patricio Munoz
 
-[**Journal**](https://www.sciencedirect.com/science/article/pii/S0168169925001632)  [**Conference**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)   [**Poster**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_phenotyping/robotic_blueberry_phenotyping_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=QKO6Pqt4tuA) [**Github**](https://github.com/UGA-BSAIL/BerryNet) 
+[**Journal**](https://www.sciencedirect.com/science/article/pii/S0168169925001632)  [**Conference**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/multi-view%20blueberry%20yield%20estimation.pdf)   [**Poster**](/project/blueberry_yield_estimation/documents/robotic_blueberry_phenotyping_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=QKO6Pqt4tuA) [**Github**](https://github.com/UGA-BSAIL/BerryNet) 
 
 - Multi-view mobile platform for in-field blueberry phenotyping
 - YOLOv8 detector for blueberry detection
@@ -90,14 +90,14 @@ In late 2024, I transitioned from academia to industry by joining agtech startup
 
 ## Sim2Real Robotic Transfer: from simulation to reality
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='project/DT-cycle_GAN/figures/DTcycleGANfig1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><a href="/project/dt_cyclegan/"><img src='project/dt_cyclegan/images/DTcycleGANfig1.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dt/mars-cyclegan: Improved object detection for mars phenotyping robot](https://arxiv.org/pdf/2310.12787)
 
 Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 
-[**Project**](https://github.com/UGA-BSAIL/DT-MARS-CycleGAN)  [**Paper**](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22473) [**Dataset**](https://www.kaggle.com/datasets/zhengkunli3969/dtmars-cyclegan)
+[**Project**](https://github.com/UGA-BSAIL/DT-MARS-CycleGAN)  [**Paper**](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22473) [**Dataset**](https://www.kaggle.com/datasets/zhengkunli3969/dtmars-cyclegan)  [**PDF**](/project/dt_cyclegan/documents/DT-cycleGAN.pdf)
 
 - Digital twins for PhenoBot and agricultural field
 - DT-CycleGAN: generative agricultural field images
@@ -105,14 +105,14 @@ Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2022</div><img src='/images/publications/Phenobot Simulation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2022</div><a href="/project/phenobot_simulation/"><img src='project/phenobot_simulation/images/Phenobot Simulation.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Simulation of an In-field Phenotyping Robot: System Design, Vision-based Navigation and Field Mapping](https://elibrary.asabe.org/abstract.asp?aid=53452)
 
 **Zhengkun Li**, Rui Xu, Changying Li<sup>*</sup>, and Longsheng Fu
 
-[**Journal**](https://www.sciencedirect.com/science/article/pii/S2772375525001431)  [**Conference**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/Phenobot%20Simulation.pdf)  [**Poster**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_phenotyping/Phenobot_simulation_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=2MkA4huXI_0) 
+[**Journal**](https://www.sciencedirect.com/science/article/pii/S2772375525001431)  [**Conference**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/images/publications/Phenobot%20Simulation.pdf)  [**Poster**](/project/phenobot_simulation/documents/Phenobot_simulation_poster.pdf)      [**Presentation**](https://www.youtube.com/watch?v=2MkA4huXI_0) 
 
 - develop a phenotyping robot to perform field phenotyping tasks
 - design a vision-based navigation algorithm and evaluate its efficacy
@@ -129,7 +129,7 @@ Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 
 **Zhengkun Li**, Changying Li<sup>*</sup>
 
-[**Report**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/robotic_grasping/Robotic_grasping.pdf)  [**Video**](https://youtu.be/03xThMf7Ot8)
+[**Report**](/project/robotic_grasping/documents/Robotic_grasping.pdf)  [**Video**](https://youtu.be/03xThMf7Ot8)
 
 - ROS-based Kinova manipulator control
 - YOLO detector for fruit detection
@@ -144,7 +144,7 @@ Liu, David, **Zhengkun Li**, Zihao Wu, Changying Li<sup>*</sup>
 
 **Zhengkun Li**, Qunming Liu, Jianxing Li, Yufei Lan, Gangying Shi<sup>*</sup> and Li Liu<sup>*</sup>
 
-[**Paper1**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/tomato_classifier/Tomato%20classifier.pdf)  [**Paper2**](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/project/tomato_classifier/Delta_robot.pdf)  [**Poster**](/project/tomato_classifier/figures/1.jpg)      [**Video1**](https://youtu.be/T6siZ7ZAzVU) [**test**](project/tomato_classifier/tomato_classifier_video.mp4)
+[**Paper1**](/project/tomato_classifier/documents/Tomato%20classifier.pdf)  [**Paper2**](/project/tomato_classifier/documents/Delta_robot.pdf)  [**Poster**](/project/tomato_classifier/figures/1.jpg)      [**Video1**](https://youtu.be/T6siZ7ZAzVU) [**Video2**](/project/tomato_classifier/tomato_classifier_video.mp4)
 
 - Tomato grading platform with Delta manipulator and vacuum suction cup
 - Vision-based non-contact classification algorithm: maturity, size, shape.
