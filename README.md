@@ -29,6 +29,8 @@ Some examples:
 - **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
 - **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
 - **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+- **Project Detail Pages**: create dedicated pages for each project with organized structure, image galleries, and documentation.
+- **Image Gallery**: automatic image gallery with lightbox support for project images.
 
 ## Quick Start
 
@@ -54,7 +56,65 @@ Some examples:
         ``` 
         > Q: How to get the google scholar paper ID?   
         > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
+1. (Optional) Create project detail pages:
+    1. Create a folder for each project in `project/` directory with the following structure:
+       ```
+       project/
+       └── project_name/
+           ├── index.md           # Project detail page (markdown)
+           ├── documents/         # PDF files, posters, papers
+           └── images/            # Project images for gallery
+       ```
+    1. Create `index.md` with front matter and project description (see `project/blueberry_yield_estimation/index.md` for example)
+    1. Add images to `images/` folder - they will automatically appear in the gallery
+    1. Link project images in `about.md` to point to `/project/project_name/`
 1. Your page will be published at `https://USERNAME.github.io`.
+
+## Project Structure
+
+The project uses an organized folder structure for managing project resources:
+
+```
+project/
+├── project_name/
+│   ├── index.md           # Project detail page (Markdown format)
+│   ├── documents/         # PDF files, posters, conference papers
+│   └── images/            # Project images (auto-displayed in gallery)
+```
+
+### Creating a Project Detail Page
+
+1. Create a new folder in `project/` directory: `project/your_project_name/`
+2. Create subdirectories: `documents/` and `images/`
+3. Create `index.md` with the following structure:
+   ```markdown
+   ---
+   layout: default
+   title: "Your Project Title"
+   permalink: /project/your_project_name/
+   author_profile: true
+   ---
+   
+   # Your Project Title
+   
+   Project description here...
+   
+   ## 📸 Project Gallery
+   
+   {% include gallery.html 
+      folder="project/your_project_name/images" 
+      title="Project Images" 
+      columns="3" 
+   %}
+   ```
+4. Add images to `images/` folder - they will automatically appear in the gallery
+5. Add PDFs and documents to `documents/` folder
+6. Link to the project page in `_pages/about.md`:
+   ```html
+   <a href="/project/your_project_name/">
+     <img src="path/to/image.jpg" alt="Project">
+   </a>
+   ```
 
 ## Debug Locally
 
