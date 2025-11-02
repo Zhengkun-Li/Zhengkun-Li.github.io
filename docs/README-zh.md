@@ -1,29 +1,22 @@
 
 <h1 align="center">
-AcadHomepage
+李政坤的学术主页
 </h1>
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [English README](../README.md) 
+[![](https://img.shields.io/github/stars/Zhengkun-Li/Zhengkun-Li.github.io)](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io)
+[![](https://img.shields.io/github/license/Zhengkun-Li/Zhengkun-Li.github.io)](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/LICENSE)  | [English README](../README.md) 
 
 </div>
 
 <p align="center">一个现代、响应式的个人学术主页</p>
 
-
 <p align="center">
     <br>
-    <img src="./screenshot.png" width="100%"/>
+    <a href="https://zhengkun-li.github.io/">访问我的主页</a>
     <br>
 </p>
-
-一些例子：
-- [样例页面](https://rayeren.github.io/acad-homepage.github.io/)
-- [作者的个人主页](https://rayeren.github.io/)
 
 ## 主要特点
 - **自动更新谷歌学术引用**: 借助谷歌学术爬虫和github action功能，本仓库可以自动更新作者的引用数和论文引用数。
@@ -34,7 +27,7 @@ AcadHomepage
 
 ## 快速开始
 
-1. Fork本仓库到`USERNAME/USERNAME.github.io`，其中`USERNAME`是你的github用户名。
+1. 克隆本仓库到本地。
 1. 配置谷歌学术引用爬虫：
     1. 在你的谷歌学术引用页面的url里找到你的谷歌学术ID：例如，在url https://scholar.google.com/citations?user=SCHOLAR_ID 中，`SCHOLAR_ID`部分即为你的谷歌学术ID。
     1. 在github本仓库页面的`Settings -> Secrets -> Actions -> New repository secret`中，添加`GOOGLE_SCHOLAR_ID`变量：`name=GOOGLE_SCHOLAR_ID`、`value=SCHOLAR_ID`。
@@ -60,8 +53,13 @@ AcadHomepage
 1. 在浏览器里打开 [http://127.0.0.1:4000](http://127.0.0.1:4000)。如果你修改了网页的源码，服务器会自动重新编译并刷新页面。
 1. 当你修改完毕你的页面以后, 使用`git`命令，`commit`你的改动并`push`到你的github仓库中。
 
-# Acknowledges
+## 许可证
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+本项目基于 MIT 许可证 - 详见 [LICENSE](../LICENSE) 文件。
+
+## 致谢
+
+本网站使用了以下开源库和框架：
+- [Font Awesome](https://fontawesome.com/) - 图标库 (SIL OFL 1.1 和 MIT 许可证)
+- [Jekyll](https://jekyllrb.com/) - 静态网站生成器
+- [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/) - 图片画廊

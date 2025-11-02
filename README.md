@@ -1,27 +1,22 @@
 
 <h1 align="center">
-AcadHomepage
+Zhengkun Li's Academic Homepage
 </h1>
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+[![](https://img.shields.io/github/stars/Zhengkun-Li/Zhengkun-Li.github.io)](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io)
+[![](https://img.shields.io/github/license/Zhengkun-Li/Zhengkun-Li.github.io)](https://github.com/Zhengkun-Li/Zhengkun-Li.github.io/blob/main/LICENSE)
+
 </div>
 
 <p align="center">A Modern and Responsive Academic Personal Homepage</p>
 
 <p align="center">
     <br>
-    <img src="docs/screenshot.png" width="100%"/>
+    <a href="https://zhengkun-li.github.io/">Visit My Homepage</a>
     <br>
 </p>
-
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
 
 ## Key Features
 - **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
@@ -32,9 +27,16 @@ Some examples:
 - **Project Detail Pages**: create dedicated pages for each project with organized structure, image galleries, and documentation.
 - **Image Gallery**: automatic image gallery with lightbox support for project images.
 
-## Quick Start
+## About This Website
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
+This is my personal academic homepage built with Jekyll, featuring:
+
+- Modern, responsive design optimized for academic content
+- Automatic Google Scholar citation updates
+- Project detail pages with image galleries
+- Clean and professional presentation of research work
+
+## Quick Start (For Developers)
 1. Configure the google scholar citation crawler:
     1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
     1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
@@ -125,8 +127,13 @@ project/
 1. If you change the source code of the website, the livereload server will automatically refresh.
 1. When you finish the modification of your homepage, `commit` your changes and `push` to your remote REPO using `git` command.
 
-# Acknowledges
+## License
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Credits
+
+This website uses the following open-source libraries and frameworks:
+- [Font Awesome](https://fontawesome.com/) - Icons (SIL OFL 1.1 and MIT License)
+- [Jekyll](https://jekyllrb.com/) - Static site generator
+- [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/) - Image gallery
