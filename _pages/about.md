@@ -168,6 +168,8 @@ Xing Liang, **Zhengkun Li**, Yingchao Peng, Gangying Shi<sup>*</sup> and Yan Lon
 </div>
 
 
+<span class='anchor' id='publications-conferences'></span>
+
 # 📝 Publications & Conferences
 - **Li, Z.**, Xu, R., Brown, N., Tillman, B. L., & Li, C. (2025). Plot-scale peanut yield estimation using a phenotyping robot and transformer-based image analysis. *Smart Agricultural Technology*, 101154. https://doi.org/10.1016/j.satech.2025.101154
 - **Li, Z.**, Xu, R., Li, C., & Fu, L. (2025). Visual navigation and crop mapping of a phenotyping robot MARS-PhenoBot in simulation. *Smart Agricultural Technology*, 100910. https://doi.org/10.1016/j.satech.2025.100910
