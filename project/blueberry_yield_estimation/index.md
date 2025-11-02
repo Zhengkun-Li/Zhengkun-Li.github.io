@@ -2,16 +2,163 @@
 layout: default
 title: "In-field blueberry fruit phenotyping with a MARS-PhenoBot and customized BerryNet"
 permalink: /project/blueberry_yield_estimation/
-author_profile: true
+author_profile: false
+sidebar: false
 ---
+
+<style>
+/* Hide navigation and sidebar for this project page */
+.masthead,
+.sidebar {
+  display: none !important;
+}
+#main {
+  margin-top: 0 !important;
+  padding-top: 2em !important;
+}
+.page {
+  width: 100% !important;
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+}
+</style>
 
 <div class="project-header" style="margin-bottom: 2.5em; padding-bottom: 1.5em; border-bottom: 2px solid #e0e0e0;">
   <h1 style="margin-bottom: 0.5em; font-size: 1.8em; font-weight: 600; color: #2c3e50;">In-field Blueberry Fruit Phenotyping with a MARS-PhenoBot and Customized BerryNet</h1>
   
-  <div style="margin-top: 1em; color: #555; line-height: 1.8;">
-    <p style="margin: 0.5em 0;"><strong>Authors:</strong> Zhengkun Li, Rui Xu, Changying Li<sup>*</sup>, Patricio Munoz, Fumiomi Takeda, Bruno Leme</p>
-    <p style="margin: 0.5em 0;"><strong>Affiliation:</strong> BSAIL Research Group, Department of Agricultural and Biological Engineering, University of Florida</p>
-    <p style="margin: 0.5em 0; font-size: 0.9em; color: #777;"><sup>*</sup>Corresponding author</p>
+  <div style="margin-top: 1.5em; color: #555; line-height: 1.8;">
+    <div style="margin-bottom: 1em;">
+      <strong style="font-size: 1.05em;">Authors:</strong>
+      <div style="margin-top: 0.8em; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.2em; align-items: start;">
+        <div style="display: flex; align-items: center; gap: 0.8em;">
+          <div style="position: relative; width: 60px; height: 60px; flex-shrink: 0;">
+            <img src="/project/blueberry_yield_estimation/images/authors/zhengkun_li.jpg" alt="Zhengkun Li" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0; position: absolute; top: 0; left: 0;" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+            <div style="display: none; width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 0.9em; position: absolute; top: 0; left: 0;">ZL</div>
+          </div>
+          <div>
+            <strong>Zhengkun Li</strong>
+            <br><a href="https://scholar.google.com/citations?hl=en&user=zwV2LcEAAAAJ" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 0.85em;">Google Scholar</a>
+          </div>
+        </div>
+        <div style="display: flex; align-items: center; gap: 0.8em;">
+          <div style="position: relative; width: 60px; height: 60px; flex-shrink: 0;">
+            <img src="/project/blueberry_yield_estimation/images/authors/rui_xu.jpg" alt="Rui Xu" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0; position: absolute; top: 0; left: 0;" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+            <div style="display: none; width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 0.9em; position: absolute; top: 0; left: 0;">RX</div>
+          </div>
+          <div>
+            <strong>Rui Xu</strong>
+            <br><a href="https://scholar.google.com/citations?hl=en&user=28gtmr8AAAAJ" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 0.85em;">Google Scholar</a>
+          </div>
+        </div>
+        <div style="display: flex; align-items: center; gap: 0.8em;">
+          <div style="position: relative; width: 60px; height: 60px; flex-shrink: 0;">
+            <img src="/project/blueberry_yield_estimation/images/authors/changying_li.jpg" alt="Changying Li" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0; position: absolute; top: 0; left: 0;" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+            <div style="display: none; width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 0.9em; position: absolute; top: 0; left: 0;">CL</div>
+          </div>
+          <div>
+            <strong>Changying Li<sup>*</sup></strong>
+            <br><a href="https://scholar.google.com/citations?user=3A9RLWwAAAAJ&hl=en" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 0.85em;">Google Scholar</a>
+          </div>
+        </div>
+        <div style="display: flex; align-items: center; gap: 0.8em;">
+          <div style="position: relative; width: 60px; height: 60px; flex-shrink: 0;">
+            <img src="/project/blueberry_yield_estimation/images/authors/patricio_munoz.jpg" alt="Patricio Munoz" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0; position: absolute; top: 0; left: 0;" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+            <div style="display: none; width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 0.9em; position: absolute; top: 0; left: 0;">PM</div>
+          </div>
+          <div>
+            <strong>Patricio Munoz</strong>
+            <br><a href="https://scholar.google.com/citations?user=e7GRRWYAAAAJ&hl=en" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 0.85em;">Google Scholar</a>
+          </div>
+        </div>
+        <div style="display: flex; align-items: center; gap: 0.8em;">
+          <div style="position: relative; width: 60px; height: 60px; flex-shrink: 0;">
+            <img src="/project/blueberry_yield_estimation/images/authors/fumiomi_takeda.jpg" alt="Fumiomi Takeda" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0; position: absolute; top: 0; left: 0;" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+            <div style="display: none; width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 0.9em; position: absolute; top: 0; left: 0;">FT</div>
+          </div>
+          <div>
+            <strong>Fumiomi Takeda</strong>
+            <br><a href="https://scholar.google.com/citations?user=DjUPG38AAAAJ&hl=en" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 0.85em;">Google Scholar</a>
+          </div>
+        </div>
+        <div style="display: flex; align-items: center; gap: 0.8em;">
+          <div style="position: relative; width: 60px; height: 60px; flex-shrink: 0;">
+            <img src="/project/blueberry_yield_estimation/images/authors/bruno_leme.jpg" alt="Bruno Leme" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0; position: absolute; top: 0; left: 0;" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+            <div style="display: none; width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 0.9em; position: absolute; top: 0; left: 0;">BL</div>
+          </div>
+          <div>
+            <strong>Bruno Leme</strong>
+            <br><a href="https://fruitphenomics.net/members/bruno/" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 0.85em;">Profile</a>
+          </div>
+        </div>
+      </div>
+      <p style="margin-top: 1em; font-size: 0.9em; color: #777;"><sup>*</sup>Corresponding author</p>
+    </div>
+    
+    <div style="margin-top: 1.5em; padding-top: 1.5em; border-top: 1px solid #e0e0e0;">
+      <p style="margin: 0.5em 0;"><strong>Affiliation:</strong> BSAIL Research Group, Department of Agricultural and Biological Engineering, University of Florida</p>
+    </div>
+  </div>
+</div>
+
+## Project Resources
+
+<div class="resources-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5em; margin: 2em 0;">
+  <!-- Journal Paper -->
+  <div style="background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)'">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0168169925001632" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 1.5em; text-align: center; color: white;">
+        <div style="font-size: 3em; margin-bottom: 0.5em;">📄</div>
+        <h4 style="margin: 0; color: white; font-size: 1.1em;">Journal Article</h4>
+      </div>
+      <div style="padding: 1em; text-align: center;">
+        <div style="margin: 0.8em 0; color: #666; font-size: 0.9em;">Computers and Electronics in Agriculture, 2025</div>
+        <div style="color: #4a90e2; font-weight: 500; margin-top: 1em;">View Article →</div>
+      </div>
+    </a>
+  </div>
+  
+  <!-- Conference Poster -->
+  <div style="background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)'">
+    <a href="/project/blueberry_yield_estimation/documents/robotic_blueberry_phenotyping_poster.pdf" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="position: relative; background: #f5f5f5; padding: 1em; text-align: center; min-height: 180px; display: flex; align-items: center; justify-content: center;">
+        <div style="font-size: 4em; opacity: 0.3;">🖼️</div>
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 0.85em; color: #999;">Poster Preview</div>
+      </div>
+      <div style="padding: 1em; text-align: center; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+        <h4 style="margin: 0; color: white; font-size: 1.1em;">Conference Poster</h4>
+        <div style="color: rgba(255,255,255,0.9); font-weight: 500; margin-top: 0.5em;">View PDF →</div>
+      </div>
+    </a>
+  </div>
+  
+  <!-- Presentation Video -->
+  <div style="background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)'">
+    <a href="https://www.youtube.com/watch?v=QKO6Pqt4tuA" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="position: relative; background: #000; padding: 0; min-height: 180px; overflow: hidden;">
+        <img src="https://img.youtube.com/vi/QKO6Pqt4tuA/maxresdefault.jpg" alt="Video thumbnail" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.9;" onerror="this.style.display='none'; this.parentElement.innerHTML='<div style=\'color: white; text-align: center; padding: 2em; font-size: 3em;\'>🎥</div>'">
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 60px; height: 60px; background: rgba(255,0,0,0.8); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer;">
+          <div style="width: 0; height: 0; border-left: 20px solid white; border-top: 12px solid transparent; border-bottom: 12px solid transparent; margin-left: 5px;"></div>
+        </div>
+      </div>
+      <div style="padding: 1em; text-align: center; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+        <h4 style="margin: 0; color: white; font-size: 1.1em;">Presentation Video</h4>
+        <div style="color: rgba(255,255,255,0.9); font-weight: 500; margin-top: 0.5em;">Watch on YouTube →</div>
+      </div>
+    </a>
+  </div>
+  
+  <!-- GitHub Repository -->
+  <div style="background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)'">
+    <a href="https://github.com/UGA-BSAIL/BerryNet" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="background: linear-gradient(135deg, #2d3748 0%, #1a202c 100%); padding: 1.5em; text-align: center; color: white; min-height: 140px; display: flex; flex-direction: column; justify-content: center;">
+        <svg style="width: 48px; height: 48px; margin: 0 auto 0.5em; fill: white;" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+        <h4 style="margin: 0.5em 0 0 0; color: white; font-size: 1.1em;">GitHub Repository</h4>
+        <div style="color: rgba(255,255,255,0.8); font-size: 0.85em; margin-top: 0.3em;">UGA-BSAIL/BerryNet</div>
+      </div>
+      <div style="padding: 1em; text-align: center; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">
+        <div style="color: white; font-weight: 500;">View Source Code →</div>
+      </div>
+    </a>
   </div>
 </div>
 
@@ -136,69 +283,7 @@ The system was extensively validated in commercial blueberry fields with compreh
   </div>
 </div>
 
-## 5. Project Resources
-
-<div class="resources-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5em; margin: 2em 0;">
-  <!-- Journal Paper -->
-  <div style="background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)'">
-    <a href="https://www.sciencedirect.com/science/article/pii/S0168169925001632" target="_blank" style="text-decoration: none; color: inherit;">
-      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 1.5em; text-align: center; color: white;">
-        <div style="font-size: 3em; margin-bottom: 0.5em;">📄</div>
-        <h4 style="margin: 0; color: white; font-size: 1.1em;">Journal Article</h4>
-      </div>
-      <div style="padding: 1em; text-align: center;">
-        <div style="margin: 0.8em 0; color: #666; font-size: 0.9em;">Computers and Electronics in Agriculture, 2025</div>
-        <div style="color: #4a90e2; font-weight: 500; margin-top: 1em;">View Article →</div>
-      </div>
-    </a>
-  </div>
-  
-  <!-- Conference Poster -->
-  <div style="background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)'">
-    <a href="/project/blueberry_yield_estimation/documents/robotic_blueberry_phenotyping_poster.pdf" target="_blank" style="text-decoration: none; color: inherit;">
-      <div style="position: relative; background: #f5f5f5; padding: 1em; text-align: center; min-height: 180px; display: flex; align-items: center; justify-content: center;">
-        <div style="font-size: 4em; opacity: 0.3;">🖼️</div>
-        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 0.85em; color: #999;">Poster Preview</div>
-      </div>
-      <div style="padding: 1em; text-align: center; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
-        <h4 style="margin: 0; color: white; font-size: 1.1em;">Conference Poster</h4>
-        <div style="color: rgba(255,255,255,0.9); font-weight: 500; margin-top: 0.5em;">View PDF →</div>
-      </div>
-    </a>
-  </div>
-  
-  <!-- Presentation Video -->
-  <div style="background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)'">
-    <a href="https://www.youtube.com/watch?v=QKO6Pqt4tuA" target="_blank" style="text-decoration: none; color: inherit;">
-      <div style="position: relative; background: #000; padding: 0; min-height: 180px; overflow: hidden;">
-        <img src="https://img.youtube.com/vi/QKO6Pqt4tuA/maxresdefault.jpg" alt="Video thumbnail" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.9;" onerror="this.style.display='none'; this.parentElement.innerHTML='<div style=\'color: white; text-align: center; padding: 2em; font-size: 3em;\'>🎥</div>'">
-        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 60px; height: 60px; background: rgba(255,0,0,0.8); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer;">
-          <div style="width: 0; height: 0; border-left: 20px solid white; border-top: 12px solid transparent; border-bottom: 12px solid transparent; margin-left: 5px;"></div>
-        </div>
-      </div>
-      <div style="padding: 1em; text-align: center; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
-        <h4 style="margin: 0; color: white; font-size: 1.1em;">Presentation Video</h4>
-        <div style="color: rgba(255,255,255,0.9); font-weight: 500; margin-top: 0.5em;">Watch on YouTube →</div>
-      </div>
-    </a>
-  </div>
-  
-  <!-- GitHub Repository -->
-  <div style="background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)'">
-    <a href="https://github.com/UGA-BSAIL/BerryNet" target="_blank" style="text-decoration: none; color: inherit;">
-      <div style="background: linear-gradient(135deg, #2d3748 0%, #1a202c 100%); padding: 1.5em; text-align: center; color: white; min-height: 140px; display: flex; flex-direction: column; justify-content: center;">
-        <svg style="width: 48px; height: 48px; margin: 0 auto 0.5em; fill: white;" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
-        <h4 style="margin: 0.5em 0 0 0; color: white; font-size: 1.1em;">GitHub Repository</h4>
-        <div style="color: rgba(255,255,255,0.8); font-size: 0.85em; margin-top: 0.3em;">UGA-BSAIL/BerryNet</div>
-      </div>
-      <div style="padding: 1em; text-align: center; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">
-        <div style="color: white; font-weight: 500;">View Source Code →</div>
-      </div>
-    </a>
-  </div>
-</div>
-
-## 6. Technical Implementation
+## 5. Technical Implementation
 
 <div class="technical-highlights" style="margin: 2em 0;">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5em;">
@@ -224,7 +309,7 @@ The system was extensively validated in commercial blueberry fields with compreh
   </div>
 </div>
 
-## 7. Key Contributions
+## 6. Key Contributions
 
 This research makes several important contributions to the field of agricultural robotics and computer vision:
 
@@ -235,7 +320,7 @@ This research makes several important contributions to the field of agricultural
 - ✅ **Real-time Performance**: Optimized deep learning pipeline suitable for mobile field deployment
 - ✅ **Validated System**: Extensive field validation demonstrating practical applicability in commercial settings
 
-## 8. Visual Documentation
+## 7. Visual Documentation
 
 {% include gallery.html 
    folder="project/blueberry_yield_estimation/images" 
