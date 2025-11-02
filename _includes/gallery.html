@@ -35,8 +35,10 @@
   {% assign project_images = site.static_files | where_exp: "file", "file.path contains _folder" | sort: "path" %}
   {% for image in project_images %}
     {% assign filename = image.path | split: "/" | last %}
-    <a href="{{ image.path }}" data-lightbox="{{ _folder | replace: '/', '-' }}" data-title="{{ filename }}">
-      <img src="{{ image.path }}" alt="{{ filename }}">
-    </a>
+    {% if image.extname == '.jpg' or image.extname == '.jpeg' or image.extname == '.png' or image.extname == '.gif' or image.extname == '.JPG' or image.extname == '.PNG' %}
+      <a href="{{ image.path | relative_url }}" data-lightbox="{{ _folder | replace: '/', '-' | replace: ' ', '-' }}" data-title="{{ filename }}">
+        <img src="{{ image.path | relative_url }}" alt="{{ filename }}">
+      </a>
+    {% endif %}
   {% endfor %}
 </div>

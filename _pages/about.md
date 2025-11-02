@@ -72,7 +72,7 @@ In late 2024, I transitioned from academia to industry by joining agtech startup
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><a href="https://zhengkun-li.github.io/project/robotic_phenotyping"><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASABE 2023</div><a href="/project/blueberry_yield_estimation/"><img src='/images/publications/blueberry_project_1.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Blueberry Yield Estimation Through Multi-View Imagery with YOLOv8 Object Detection](https://elibrary.asabe.org/abstract.asp?aid=54189)
